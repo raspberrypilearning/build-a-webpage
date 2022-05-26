@@ -1,11 +1,11 @@
-# build-a-webpage
+# invent-project-template
 
-![build-a-webpage](banner.png)
+![invent-project-template](banner.png)
 
-Find the project online at [projects.raspberrypi.org/en/projects/build-a-webpage](https://projects.raspberrypi.org/en/projects/build-a-webpage)
+Find the project online at [projects.raspberrypi.org/en/projects/invent-project-template](https://projects.raspberrypi.org/en/projects/invent-project-template)
 
 ## Resources
-For project materials and solutions, see [en/resources](https://github.com/raspberrypilearning/build-a-webpage/tree/master/en/resources) and [en/solutions](https://github.com/raspberrypilearning/build-a-webpage/tree/master/en/solutions).
+For project materials and solutions, see [en/resources](https://github.com/raspberrypilearning/invent-project-template/tree/master/en/resources) and [en/solutions](https://github.com/raspberrypilearning/invent-project-template/tree/master/en/solutions).
 
 ## Contributing
 See [CONTRIBUTING.md](CONTRIBUTING.md)

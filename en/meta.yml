@@ -1,11 +1,18 @@
-title: Build a webpage
+title: invent-project-template
 hero_image: images/banner.png
-description: build-a-webpage description
+description: invent-project-template description
 version: 4
 listed: false
 copyedit: false
-last_tested: "2022-05-26"
+last_tested: "2021-03-26"
 steps:
   - title: Introduction
-  - title: Step title
+  - title: Your idea
+  - title: Build and test
+    completion: engaged
+  - title: Share
+    completion: internal
+  - title: Reflection
+    completion: external
+  - title: Upgrade your project
   - title: What next?
