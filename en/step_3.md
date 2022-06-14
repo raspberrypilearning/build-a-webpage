@@ -63,7 +63,7 @@ You have built up some really useful skills. Here is a reminder to help you make
 title: Incorrect tags or properties
 ---
 
-Carefully check the spelling of your HTML tags, attributes and classes. 
+Carefully check the spelling of your HTML tags, attributes and classes. Incorrect tags can mean that the tag text gets displayed on your web page instead of controlling the layout.
 
 This example incorrectly uses 'image' instead of 'img'! `<img>` is the correct HTML tag. 
 
@@ -74,7 +74,20 @@ filename: index.html
 line_numbers: false
 ---
 
-<image class="bordered-box" src="happy.png" alt="An outline of an anime style girl with a happy facial expression."/>
+    <image class="bordered-box" src="happy.png" alt="An outline of an anime style girl with a happy facial expression."/>
+
+--- /code ---
+
+It is also incorrect to have spaces in tags, this example is incorrect:
+
+--- code ---
+---
+language: HTML
+filename: index.html
+line_numbers: false
+---
+
+< h1>Lorem ipsum</h1>
 
 --- /code ---
 
@@ -178,6 +191,33 @@ line_numbers: false
 --body-font: 1.1rem Verdana, sans-serif;
 --header-font: lighter 3rem 'Bangers', cursive;
 --title-font: lighter 2rem 'Bangers', cursive;
+
+--- /code ---
+
+--- /collapse ---
+
+--- collapse ---
+
+---
+title: My link to a web page doesn't work
+---
+
+Remember that the `<a>` (anchor) tag is used to create a link to another web page (not the 'link' tag which is used to link to resources such as fonts).
+
+Also check that you have the correct web address (url) for the `href` property. 
+
+The part of a web address after the the domain name (such as 'projects.raspberrypi.org'), is case sensitive so you need to make sure capital letters match. 
+
+This example uses correct HTML to link to a web page that will open in a new browser tab:
+
+--- code ---
+---
+language: HTML
+filename: index.html
+line_numbers: false
+---
+
+<a href="https://projects.raspberrypi.org/en/raspberrypi/web-intro" target="_blank">Make a web page like this!</a>
 
 --- /code ---
 
