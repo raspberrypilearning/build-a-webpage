@@ -6,7 +6,7 @@ Does your web page have:
 
 --- task ---
 
-Multiple sections containing different kinds of content including text and images or emoji, headings, quotations, lists or links
+Multiple sections containing different kinds of content including text and images or emoji, headings, quotations, lists or links.
 
 --- /task ---
 
@@ -23,23 +23,23 @@ Accessibility through a good colour contrast and easily readable font sizes.
 --- /task ---
 
 
-Your web page could also have:
+Your web page could:
 
 --- task ---
 
-Custom CSS classes that you create and apply.
+Use custom CSS classes that you create and apply.
 
 --- /task ---
 
 --- task ---
 
-Animations or flip cards to create interest.
+Use animations or flip cards to create interest.
 
 --- /task ---
 
 --- task ---
 
-Been shared to the Raspberry Pi Foundation community gallery to inspire others.
+Be shared to the Raspberry Pi Foundation community gallery to inspire others.
 
 --- /task ---
 
@@ -50,13 +50,13 @@ Answer the questions below by drawing, writing, typing in a document, talking to
 
 --- task ---
 
-How did you get your ideas? 
+How did you get choose the topic for your web page? 
 
 --- /task ---
 
 --- task ---
 
-What cool new thing(s) did you learn?
+Which HTML or CSS technique do you like best?
 
 --- /task ---
 
@@ -66,7 +66,7 @@ What cool new thing(s) did you learn?
 "Design isn't finished until someone is using it." (Brenda Laurel).
 </p>
 
-In the Introduction to Web path you used lots of different Design skills including visual design, design for accessibility and user experience and technical design. What kind of design do you enjoy most? 
+In the Introduction to Web path you used lots of different Design skills including visual design, design for accessibility and user experience and technical design. Which kind of design do you enjoy most? 
 
 --- /task ---
 

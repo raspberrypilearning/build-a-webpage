@@ -1,9 +1,9 @@
 ## Introduction
 
-In this project you will use the skills you have developed in the introduction to web path to create a web page about something you want to share. 
+In this project you will use the skills you have developed in the [Intro to Web](https://projects.raspberrypi.org/en/pathways/web-intro) path to create a web page about something you want to share. 
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-The <span style="color: #0faeb0">world wide web**</span> or <span style="color: #0faeb0">web</span> is a vast collection of connected web pages. The web allows people to view content from all over the world and create their own web pages to share with others. Can you imagine what life was like before the web?
+The <span style="color: #0faeb0">world wide web</span> or <span style="color: #0faeb0">web</span> is a vast collection of connected web pages. The web allows people to view content from all over the world and create their own web pages to share with others. Can you imagine what life was like before the web?
 </p>
 
 You will:
@@ -33,7 +33,7 @@ Can you identify the HTML elements that are used in this project? How has CSS be
 
 <div style="border-top: 15px solid #f3524f; background-color: whitesmoke; margin-bottom: 20px; padding: 10px;">
 
-### PROJECT BRIEF: Project title
+### PROJECT BRIEF: Build a web page
 <hr style="border-top: 2px solid black;">
 
 Create a web page about a topic that you find interesting and want to share with others. It could be helpful information for pet owners, a page of your favourite jokes, a walkthrough for a game you enjoy, some advice you have found helpful, a list of useful web sites, or whatever you want to share with web page visitors.
@@ -86,5 +86,3 @@ As you look at these web pages, consider what makes them useful and informative 
 ![Complete project](images/filter.png)
 
 --- /print-only ---
-
-

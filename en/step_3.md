@@ -3,6 +3,7 @@
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
 Now it's time to build your web page. 
+
 </div>
 <div>
 ![A screenshot of the 'triple filter test' example webpage.](images/step-three.PNG){:width="300px"}
@@ -45,7 +46,7 @@ Use your colour palettes to set text and background colours:
 
 ### Structure
 
-overall-page-structure
+[[[overall-page-structure]]]
 
 [[[full-width-section]]]
 
@@ -61,13 +62,15 @@ overall-page-structure
 
 [[[wrapped-wide-narrow]]]
 
-[[[full-width-quote]]]
-
 [[[web-wrap-gap]]]
+
+[[[full-width-quote]]]
 
 [[[using-rem]]]
 
 [[[web-x-y-centering]]]
+
+[[[padding-margins]]]
 
 ### Fonts and text elements
 
@@ -92,8 +95,6 @@ Insert text elements:
 [[[web-create-link]]]
 
 [[[full-width-quote]]]
-
-[[[web-large-text-tiles]]]
 
 Style your text:
 
@@ -167,9 +168,21 @@ You can create your own class to make a new style:
 
 **Test:** Show someone else your project and get their feedback. Do you want make any changes to your web page? 
 
+If you have a Trinket account, you can click on the Remix button to save a copy to your My Trinkets library.
+
+If you don’t have a Trinket account, you can still come back to your project in the future on the same computer by using the starter project link.
+
+You can also publish your saved project to see what it would look like as a full web page. Each time you save your project your published site will update:
+
 [[[trinket-publish-project]]]
 
+**Tip:** To make your web page viewable by people with disabilities and appealing to a wide audience you need to make sure it is accessible:
+
 [[[check-accessibility]]]
+
+**Tip:** Now is a good time to add comments to your code it make it easier to debug and upgrade. It will also help other people read you code and be inspired. 
+
+[[[web-comment-code]]]
 
 --- /task ---
 
