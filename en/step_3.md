@@ -1,6 +1,8 @@
 ## Build and test
 
-Now it's time to make your web page. 
+Now it's time to build your web page. 
+
+**Tip:** Plan your project so you will be able to create a basic web page in the time you have available and then upgrade the project if you have time left. 
 
 Image, gif or video showing what they will achieve by the end of the step. ![](images/image.png)
 
@@ -8,7 +10,7 @@ Image, gif or video showing what they will achieve by the end of the step. ![](i
 
 --- task ---
 
-You have built up some really useful skills. Here is a reminder to help you make your web page : 
+You have built up some really useful skills. Here is a reminder to help you make your web page: 
 
 ### Colour palette
 
@@ -48,21 +50,19 @@ You have built up some really useful skills. Here is a reminder to help you make
 
 ### Fonts and text elements
 
+Choose fonts to use on your web page:
+
 [[[included-fonts]]]
 
 [[[web-fonts]]]
 
 [[[google-fonts]]]
 
+You can use placeholder text while you work on your layout:
+
 [[[add-placeholder-text]]]
 
-[[[full-width-quote]]]
-
-[[[web-large-text-tiles]]]
-
-[[[web-center-text]]]
-
-[[[web-strong-em]]]
+Insert text elements:
 
 [[[web-ordered-list]]]
 
@@ -70,23 +70,53 @@ You have built up some really useful skills. Here is a reminder to help you make
 
 [[[full-width-quote]]]
 
+[[[web-large-text-tiles]]]
+
+Style your text:
+
+[Headers and large text]
+
+[[[web-center-text]]]
+
+[[[web-strong-em]]]
+
+
 ### Images
+
+Insert an image from the starter project library:
 
 [[[trinket-image-library]]]
 
 [[[web-alt-text]]]
 
+Use an emoji as an image:
+
 [[[choose-an-emoji]]]
 
 [[[huge-emoji]]]
+
+Add a background image:
 
 [[[web-background-image]]]
 
 [[[add-transparency]]]
 
+Tip: You can style your images with rounded corners or borders:
+
+[[[rounded-corners]]]
+
+[[[web-borders]]]
+
+<mark>Add box-shadow</mark>
+
+
 ### Animations
 
+Create web flip cards.
+
 [[[web-flip-cards]]]
+
+Use animations to change the appearance or position of elements on your page over time:
 
 [[[web-starter-animations]]]
 
@@ -94,11 +124,15 @@ You have built up some really useful skills. Here is a reminder to help you make
 
 ### More style
 
+Add more style to any elements on your web page:
+
 [[[rounded-corners]]]
 
 [[[web-borders]]]
 
 [[[add-a-gradient]]]
+
+You can create your own class to make a new style:
 
 [[[web-add-class]]]
 
@@ -107,6 +141,10 @@ You have built up some really useful skills. Here is a reminder to help you make
 --- task ---
 
 **Test:** Show someone else your project and get their feedback. Do you want make any changes to your web page? 
+
+[[[trinket-publish-project]]]
+
+[[[check-accessibility]]]
 
 --- /task ---
 
@@ -286,8 +324,3 @@ We love hearing about your bugs and how you fixed them. Use the feedback button 
 
 --- /task ---
 
-admin type ingredients
-
-[[[trinket-publish-project]]]
-
-[[[check-accessibility]]]

@@ -1,7 +1,7 @@
 ## Your web page topic
 In this step you will decide what your web page is about. 
 
-Image, gif or video showing what they will achieve by the end of the step. ![](images/image.png)
+![A photograph of a hand drawn design for the layout of a webpage.](images/step-two.jpg)
 
 ### What do you want to share?
 
@@ -50,14 +50,6 @@ You could also make a bullet point list of information that you want to include.
 
 --- task ---
 
-Open the [Build a web page starter project](http://rpf.io/scratch-new){:target="_blank"}. Scratch will open in another browser tab.
+Open the [Build a web page starter project](https://trinket.io/library/trinkets/a61473a691){:target="_blank"}. Trinket will open in another browser tab.
 
 --- /task ---
-
---- task ---
-
-Any other info/content
-
---- /task ---
-
---- save ---
