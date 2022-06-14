@@ -1,10 +1,8 @@
 ## Share
 
-<mark> This is for Scratch </mark>
+Now is the time to share your web page so that it can receive visitors. 
 
-Now is the time to share your book with your audience.
-
-If you have a Scratch account, you can share your project through Scratch. Check with an adult first. You can send a link to people you know, and the whole Scratch community will be able to find your project and try it out.
+**Note:** Remember to check that you haven't included any personal information in your web page. 
 
 [[[share-project]]]
 

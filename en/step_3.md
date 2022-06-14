@@ -3,6 +3,7 @@
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
 Now it's time to build your web page. 
+
 </div>
 <div>
 ![A screenshot of the 'triple filter test' example webpage.](images/step-three.PNG){:width="300px"}
