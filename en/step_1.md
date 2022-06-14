@@ -40,7 +40,7 @@ Create a web page about a topic that you find interesting and want to share with
 
 Your web page should:
 + Have multiple sections containing different kinds of content including text and images or emoji, headings, quotations, lists or links
-+ Use a colour palette, fonts and CSS styles of your choice
++ Use a colour palette, fonts and CSS styles that work well together
 + Be accessible by using good colour contrast and font sizes
 
 You web page could:
@@ -56,20 +56,22 @@ You web page could:
 
 As you look at these web pages, consider what makes them useful and informative as well as fun and accessible:
 
-**Be an LGBTQ+ Ally**: [See inside](https://rpifoundation.trinket.io/sites/be-an-lgbtq-ally){:target="_blank"}
-<div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="600" height="600" src="https://rpifoundation.trinket.io/sites/be-an-lgbtq-ally" frameborder="0"></iframe>
+<div>
+**Be an LGBTQ+ Ally**: [See inside](https://trinket.io/html/7c4e35f48d){:target="_blank"}
+
+<iframe src="https://trinket.io/embed/html/7c4e35f48d?outputOnly=true" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 </div>
 
-**Introduction to Raspberry Pi Pico**: [See inside](https://rpifoundation.trinket.io/sites/raspberry-pi-pico){:target="_blank"}
-<div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="600" height="600" src="https://rpifoundation.trinket.io/sites/raspberry-pi-pico" frameborder="0"></iframe>
+<div>
+**Introduction to Raspberry Pi Pico**: [See inside](https://trinket.io/html/f33a473ca2){:target="_blank"}
+
+<iframe src="https://trinket.io/embed/html/f33a473ca2?outputOnly=true" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 </div>
 
-**Triple filter test**: [See inside](https://rpifoundation.trinket.io/sites/triple-filter-test){:target="_blank"}
-Click on the character and object to choose the ones you want in the story, then click on the Stage to turn the page.
-<div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="600" height="600" src="https://rpifoundation.trinket.io/sites/triple-filter-test" frameborder="0"></iframe>
+<div>
+**Triple filter test**: [See inside](https://trinket.io/html/4ad54890fd){:target="_blank"}
+
+<iframe src="https://trinket.io/embed/html/4ad54890fd?outputOnly=true" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 </div>
 
 --- /task ---

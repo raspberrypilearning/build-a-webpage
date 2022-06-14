@@ -2,17 +2,23 @@
 
 Did you meet the **project brief**? Think about your project and go through the checklist below and check off the ones that apply to your project.
 
-Does your ... have:
+Does your web page have:
 
 --- task ---
 
-something
+Multiple sections containing different kinds of content including text and images or emoji, headings, quotations, lists or links
 
 --- /task ---
 
 --- task ---
 
-something
+A colour palette, fonts and CSS styles that work well together. You could ask other people for their opinion, but you don't have to make changes if you don't agree with them.
+
+--- /task ---
+
+--- task ---
+
+Accessibility through a good colour contrast and easily readable font sizes.
 
 --- /task ---
 
