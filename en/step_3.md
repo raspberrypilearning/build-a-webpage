@@ -63,7 +63,11 @@ overall-page-structure
 
 [[[full-width-quote]]]
 
+[[[web-wrap-gap]]]
+
 [[[using-rem]]]
+
+[[[web-x-y-centering]]]
 
 ### Fonts and text elements
 
