@@ -1,18 +1,25 @@
-## Your idea
+## Your web page topic
+In this step you will decide what your web page is about. 
 
-Use this step to plan your ... . You can plan by just thinking; tinkering; drawing or writing; or however you like! 
 
 Image, gif or video showing what they will achieve by the end of the step. ![](images/image.png)
 
-### Why are you making ... ?
+### What do you want to share?
 
 --- task ---
 
-Think about the purpose of your ... . 
+Think about the purpose of your web page.
 
 It could be:
-- 
 
++ ℹ️ An information page about a topic you are interested in
++ 🔗 A collection of links to the best web pages on a topic
++ 😜 Your favourite jokes
++ 🎮 A game walk through or other tutorial
++ 🐙 Information about a pet or animal
++ Some advice that you have found helpful
++ 🏕️ Tourist information about a place you have visited or would like to visit
++ 👩🏿‍🦼 Information about a medical condition or disability that you think more people should be aware of. 
 
 --- /task ---
 
