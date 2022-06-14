@@ -4,7 +4,7 @@ Now it's time to build your web page.
 
 **Tip:** Plan your project so you will be able to create a basic web page in the time you have available and then upgrade the project if you have time left. 
 
-Image, gif or video showing what they will achieve by the end of the step. ![](images/image.png)
+![A screenshote of the 'triple filter test' example webpage.](images/step-three.PNG)
 
 **Tip:** Remember to test your project each time you add something. It is much easier to find and fix bugs before you make more changes.
 
@@ -74,7 +74,7 @@ Insert text elements:
 
 Style your text:
 
-[Headers and large text]
+[web-headers-large-text]
 
 [[[web-center-text]]]
 
@@ -152,41 +152,11 @@ You can create your own class to make a new style:
 
 **Debug:** You might find some bugs in your HTML or CSS that you need to fix. Here are some common bugs.
 
---- collapse ---
+**My webpage isn't displaying correctly**
 
----
-title: Incorrect tags or properties
----
+[[[incorrect-tags]]]
 
-Carefully check the spelling of your HTML tags, attributes and classes. Incorrect tags can mean that the tag text gets displayed on your web page instead of controlling the layout.
-
-This example incorrectly uses 'image' instead of 'img'! `<img>` is the correct HTML tag. 
-
---- code ---
----
-language: HTML
-filename: index.html
-line_numbers: false
----
-
-    <image class="bordered-box" src="happy.png" alt="An outline of an anime style girl with a happy facial expression."/>
-
---- /code ---
-
-It is also incorrect to have spaces in tags, this example is incorrect:
-
---- code ---
----
-language: HTML
-filename: index.html
-line_numbers: false
----
-
-< h1>Lorem ipsum</h1>
-
---- /code ---
-
---- /collapse ---
+mismatched-tags
 
 --- collapse ---
 

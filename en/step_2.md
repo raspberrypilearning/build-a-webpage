@@ -13,14 +13,14 @@ It could be:
 
 + ℹ️ An information page about a topic you are interested in
 + 🔗 A collection of links to the best web pages on a topic
-+ 😜 Your favourite jokes
++ 😜 Your favourite (polite!) jokes
 + 🎮 A game walk through or other tutorial
 + 🐙 Information about a pet or animal
 + 💬 Some advice that you have found helpful
-+ 🏕️ Tourist information about a place you have visited or would like to visit
++ 🏞️ Tourist information about a place you have visited or would like to visit
 + 👩🏿‍🦼 Information about a medical condition or disability that you think more people should be aware of. 
 
-**Tip:** Try to choose a topic that you already know something about. This is so you can spend your time building your web page, not researching a topic. 
+**Tip:** Try to choose a topic that you already know something about. This is so you can spend your time building your web page, not researching a topic.
 
 --- /task ---
 
