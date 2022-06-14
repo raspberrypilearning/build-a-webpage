@@ -70,6 +70,8 @@ Use your colour palettes to set text and background colours:
 
 [[[web-x-y-centering]]]
 
+[[[padding-margins]]]
+
 ### Fonts and text elements
 
 Choose fonts to use on your web page:
@@ -174,9 +176,13 @@ You can also publish your saved project to see what it would look like as a full
 
 [[[trinket-publish-project]]]
 
-Tip: To make your web page viewable by people with disabilities and appealing to a wide audience you need to make sure it is accessible:
+**Tip:** To make your web page viewable by people with disabilities and appealing to a wide audience you need to make sure it is accessible:
 
 [[[check-accessibility]]]
+
+**Tip:** Now is a good time to add comments to your code it make it easier to debug and upgrade. It will also help other people read you code and be inspired. 
+
+[[[web-comment-code]]]
 
 --- /task ---
 
