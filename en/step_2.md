@@ -1,7 +1,13 @@
 ## Your web page topic
-In this step you will decide what your web page is about. 
-
-![A photograph of a hand drawn design for the layout of a webpage.](images/step-two.jpg)
+ 
+<div style="display: flex; flex-wrap: wrap">
+<div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
+In this step you will decide what your web page is about.
+</div>
+<div>
+![A photograph of a hand drawn design for the layout of a webpage.](images/step-two.jpg){:width="300px"}
+</div>
+</div>
 
 ### What do you want to share?
 
