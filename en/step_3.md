@@ -78,6 +78,8 @@ line_numbers: false
 
 --- /code ---
 
+--- /collapse ---
+
 --- collapse ---
 
 ---
