@@ -6,7 +6,6 @@ Image, gif or video showing what they will achieve by the end of the step. ![](i
 
 **Tip:** Remember to test your project each time you add something. It is much easier to find and fix bugs before you make more changes.
 
-
 --- task ---
 
 You have built up some really useful skills. Here is a reminder to help you make your web page : 
@@ -25,7 +24,27 @@ You have built up some really useful skills. Here is a reminder to help you make
 
 [[[contrast-checker]]]
 
+[[[web-primary-secondary]]]
+
+[[[add-colour-variables]]]
+
 ### Structure
+
+[[[full-width-section]]]
+
+[[[side-by-side-section]]]
+
+[[[wrapped-regular-width]]]
+
+[[[three-text-tiles]]]
+
+[[[web-large-text-tiles]]]
+
+[[[text-image-text]]]
+
+[[[wrapped-wide-narrow]]]
+
+[[[full-width-quote]]]
 
 ### Fonts and text elements
 
@@ -35,15 +54,51 @@ You have built up some really useful skills. Here is a reminder to help you make
 
 [[[google-fonts]]]
 
+[[[add-placeholder-text]]]
+
+[[[full-width-quote]]]
+
+[[[web-large-text-tiles]]]
+
+[[[web-center-text]]]
+
+[[[web-strong-em]]]
+
+[[[web-ordered-list]]]
+
+[[[web-unordered-list]]]
+
+[[[full-width-quote]]]
+
 ### Images
+
+[[[trinket-image-library]]]
+
+[[[choose-an-emoji]]]
+
+[[[huge-emoji]]]
+
+[[[web-background-image]]]
+
+[[[add-transparency]]]
 
 ### Animations
 
+[[[web-flip-cards]]]
+
+[[[web-starter-animations]]]
+
+[[[web-customise-animations]]]
+
 ### More style
 
-### 
+[[[rounded-corners]]]
 
+[[[web-borders]]]
 
+[[[add-a-gradient]]]
+
+[[[web-add-class]]]
 
 --- /task ---
 
