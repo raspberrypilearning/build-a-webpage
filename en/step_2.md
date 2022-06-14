@@ -1,7 +1,6 @@
 ## Your web page topic
 In this step you will decide what your web page is about. 
 
-
 Image, gif or video showing what they will achieve by the end of the step. ![](images/image.png)
 
 ### What do you want to share?
@@ -17,9 +16,11 @@ It could be:
 + 😜 Your favourite jokes
 + 🎮 A game walk through or other tutorial
 + 🐙 Information about a pet or animal
-+ Some advice that you have found helpful
++ 💬 Some advice that you have found helpful
 + 🏕️ Tourist information about a place you have visited or would like to visit
 + 👩🏿‍🦼 Information about a medical condition or disability that you think more people should be aware of. 
+
+**Tip:** Try to choose a topic that you already know something about. This is so you can spend your time building your web page, not researching a topic. 
 
 --- /task ---
 
@@ -27,27 +28,29 @@ It could be:
 
 --- task ---
 
-Think about who you will make your ... for (your **audience**).
+Who are you making your web page for? It's useful to think about the kind of visitors you are making your page for. 
+
++ How old will your visitors be? 
++ How much will they know about your topic? 
++ Is the page for other experts in your topic or is is for beginners? 
+
+**Tip:** If you're making a page about a topic you know lots about, make sure you explain it clearly to other people.
 
 --- /task ---
 
 ### Get started
 
+--- task ---
+
+If you have paper and a pen or pencil you could sketch out your web page layout. 
+
+You could also make a bullet point list of information that you want to include. 
+
+--- /task ---
 
 --- task ---
 
-Open a [new Scratch project](http://rpf.io/scratch-new){:target="_blank"}. Scratch will open in another browser tab.
-
---- collapse ---
----
-title: Working offline
----
-
-To set up Scratch for offline use visit [our Scratch guide](https://learning-admin.raspberrypi.org/en/projects/getting-started-scratch/1){:target="_blank"}.
-
---- /collapse ---
-
-Use ... , a pen and paper, or both to plan ideas for your book.
+Open the [Build a web page starter project](http://rpf.io/scratch-new){:target="_blank"}. Scratch will open in another browser tab.
 
 --- /task ---
 

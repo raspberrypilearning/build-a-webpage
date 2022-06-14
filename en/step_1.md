@@ -25,9 +25,9 @@ Can you identify the HTML elements that are used in this project? How has CSS be
 </div>
 <div>
 
-**Light the way home**: [See inside](https://scratch.mit.edu/projects/499860786/editor){:target="_blank"}
+**Favourite things**: [See inside](https://rpifoundation.trinket.io/sites/favourite-things){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/499860786/?autostart=false" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="600" height="600" src="https://rpifoundation.trinket.io/sites/favourite-things" frameborder="0"></iframe>
 </div>
 
 </div>
@@ -64,18 +64,18 @@ As you look at these web pages, consider what makes them useful and informative 
 
 **Be an LGBTQ+ Ally**: [See inside](https://rpifoundation.trinket.io/sites/be-an-lgbtq-ally){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="https://rpifoundation.trinket.io/sites/be-an-lgbtq-ally" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="600" height="600" src="https://rpifoundation.trinket.io/sites/be-an-lgbtq-ally" frameborder="0"></iframe>
 </div>
 
 **Introduction to Raspberry Pi Pico**: [See inside](https://rpifoundation.trinket.io/sites/raspberry-pi-pico){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="https://rpifoundation.trinket.io/sites/raspberry-pi-pico" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="600" height="600" src="https://rpifoundation.trinket.io/sites/raspberry-pi-pico" frameborder="0"></iframe>
 </div>
 
 **Triple filter test**: [See inside](https://rpifoundation.trinket.io/sites/triple-filter-test){:target="_blank"}
 Click on the character and object to choose the ones you want in the story, then click on the Stage to turn the page.
 <div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="https://rpifoundation.trinket.io/sites/triple-filter-test" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="600" height="600" src="https://rpifoundation.trinket.io/sites/triple-filter-test" frameborder="0"></iframe>
 </div>
 
 --- /task ---
