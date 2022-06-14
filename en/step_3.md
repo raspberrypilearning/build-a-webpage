@@ -46,7 +46,7 @@ Use your colour palettes to set text and background colours:
 
 ### Structure
 
-overall-page-structure
+[[[overall-page-structure]]]
 
 [[[full-width-section]]]
 
@@ -62,9 +62,9 @@ overall-page-structure
 
 [[[wrapped-wide-narrow]]]
 
-[[[full-width-quote]]]
-
 [[[web-wrap-gap]]]
+
+[[[full-width-quote]]]
 
 [[[using-rem]]]
 
@@ -93,8 +93,6 @@ Insert text elements:
 [[[web-create-link]]]
 
 [[[full-width-quote]]]
-
-[[[web-large-text-tiles]]]
 
 Style your text:
 
@@ -168,7 +166,15 @@ You can create your own class to make a new style:
 
 **Test:** Show someone else your project and get their feedback. Do you want make any changes to your web page? 
 
+If you have a Trinket account, you can click on the Remix button to save a copy to your My Trinkets library.
+
+If you don’t have a Trinket account, you can still come back to your project in the future on the same computer by using the starter project link.
+
+You can also publish your saved project to see what it would look like as a full web page. Each time you save your project your published site will update:
+
 [[[trinket-publish-project]]]
+
+Tip: To make your web page viewable by people with disabilities and appealing to a wide audience you need to make sure it is accessible:
 
 [[[check-accessibility]]]
 
