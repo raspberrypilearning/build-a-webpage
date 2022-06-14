@@ -23,22 +23,28 @@ Accessibility through a good colour contrast and easily readable font sizes.
 --- /task ---
 
 
-Your ... could also have:
+Your web page could also have:
 
 --- task ---
 
-something
+Custom CSS classes that you create and apply.
 
 --- /task ---
 
 --- task ---
 
-something
+Animations or flip cards to create interest.
+
+--- /task ---
+
+--- task ---
+
+Been shared to the Raspberry Pi Foundation community gallery to inspire others.
 
 --- /task ---
 
 
-Reflecting about how you made your ... will help you in your future projects.
+Reflecting about how you made your web page will help you in your future projects.
 
 Answer the questions below by drawing, writing, typing in a document, talking to someone, or in your own creative way that works best for you.
 
@@ -56,22 +62,21 @@ What cool new thing(s) did you learn?
 
 --- task ---
 
-<mark> some ideas, delete as needed </mark> Mistakes are the "portals of discovery" (James Joyce, Ulysses). 
-The Nobel Prize-winning physicist Niels Bohr said, “An expert is a person who has made all the mistakes that can be made”.
-Mistakes are powerful.
-Mistakes are empowering. 
+<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
+"Design isn't finished until someone is using it." (Brenda Laurel).
+</p>
 
-What mistakes did you make and how did they help you create your ... ?
+In the Introduction to Web path you used lots of different Design skills including visual design, design for accessibility and user experience and technical design. What kind of design do you enjoy most? 
 
 --- /task ---
 
-### Now you are (the author of a digital book)!
+### Now you are a web content developer!
 
 Take a moment to celebrate what you have made.
 
 --- task ---
 
-Where will you take your new powers? What will you make next?
+Where will you take your new powers? Who will you show your web pages to? What will you make next?
 
 --- /task ---
 
