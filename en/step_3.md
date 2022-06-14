@@ -74,6 +74,8 @@ You have built up some really useful skills. Here is a reminder to help you make
 
 [[[trinket-image-library]]]
 
+[[[web-alt-text]]]
+
 [[[choose-an-emoji]]]
 
 [[[huge-emoji]]]

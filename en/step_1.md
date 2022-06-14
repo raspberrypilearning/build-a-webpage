@@ -15,21 +15,15 @@ You will:
 
 --- task ---
 
+### Try it
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1">
-
-### Try it
-
 Can you identify the HTML elements that are used in this project? How has CSS been used to style and animate the page?
-
 </div>
 <div>
+**Favourite things**: [See inside](https://trinket.io/html/9f404436b6){:target="_blank"}
 
-**Favourite things**: [See inside](https://rpifoundation.trinket.io/sites/favourite-things){:target="_blank"}
-<div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="600" height="600" src="https://rpifoundation.trinket.io/sites/favourite-things" frameborder="0"></iframe>
-</div>
-
+<iframe src="https://trinket.io/embed/html/9f404436b6?outputOnly=true" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 </div>
 </div>
 
