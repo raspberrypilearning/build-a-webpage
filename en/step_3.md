@@ -50,23 +50,31 @@ Use your colour palettes to set text and background colours:
 
 [[[full-width-section]]]
 
+[[[full-width-quote]]]
+
+<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
+Web pages can be viewed on many different devices and should be <span style="color: #0faeb0">**responsive**</span> to each device. This means that if a user views your site on a mobile phone, it should respond to a smaller screen and if they view it on a desktop PC it should respond to a larger screen. 
+</p>
+
+[[[using-rem]]]
+
+CSS can also be used to responsively change the layout of the page: 
+
 [[[side-by-side-section]]]
 
 [[[wrapped-regular-width]]]
 
-[[[three-text-tiles]]]
+[[[wrapped-wide-narrow]]]
 
 [[[web-large-text-tiles]]]
 
-[[[text-image-text]]]
+[[[three-text-tiles]]]
 
-[[[wrapped-wide-narrow]]]
+[[[text-image-text]]]
 
 [[[web-wrap-gap]]]
 
-[[[full-width-quote]]]
-
-[[[using-rem]]]
+Align and space your content to improve the look of your web page:
 
 [[[web-x-y-centering]]]
 
