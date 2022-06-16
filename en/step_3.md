@@ -112,7 +112,6 @@ Style your text:
 
 [[[web-strong-em]]]
 
-
 ### Images
 
 Insert an image from the starter project library:
@@ -141,7 +140,6 @@ Add a background image:
 
 [[[web-box-shadow]]]
 
-
 ### Animations
 
 Create web flip cards:
@@ -165,6 +163,8 @@ Add more style to any elements on your web page:
 [[[add-a-gradient]]]
 
 [[[web-animate-span]]]
+
+[[[web-box-shadow]]]
 
 You can create your own class to make a new style:
 
