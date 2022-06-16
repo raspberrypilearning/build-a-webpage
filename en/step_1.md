@@ -48,6 +48,8 @@ You web page could:
 + Use animations or flip cards to create interest
 + Be shared to the Raspberry Pi Foundation community gallery to inspire others 
 
+</hr>
+
 --- no-print ---
 
 ### Get inspiration
