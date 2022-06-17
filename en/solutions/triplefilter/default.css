@@ -1,0 +1,20 @@
+
+/* Set up colour palette and fonts using variables */
+
+:root {
+  --primary: #b29e8c;
+  --secondary: #284177;
+  --tertiary: #ffb703;
+  --page: #ede8e4;
+  --onprimary: #284177;
+  --onsecondary: #fb8500;
+  --ontertiary: #023047;
+  --onpage: #000000;
+  --detail: #83ceec;
+  --detail2: #af8c6b;
+
+  --body-font: 1.2rem 'Nunito', sans-serif;
+  --header-font: lighter 3rem 'GFS Neohellenic', sans-serif;
+  --title-font: lighter 1.5rem 'Nunito', sans-serif;
+  --quote-font: lighter 1.5rem 'GFS Neohellenic', sans-serif;
+}

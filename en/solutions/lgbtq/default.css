@@ -1,0 +1,19 @@
+
+/* Set up colour palette and fonts using variables */
+
+:root {
+  --primary: #ffffff;
+  --secondary: #000000;
+  --tertiary: #004dff;
+  --page: #ffffff;
+  --onprimary: #664300;
+  --onsecondary: #ffffff;
+  --ontertiary: #ffffff;
+  --onpage: #750787;
+  --detail: #e40303;
+  --detail2: #ff8c00;
+
+  --body-font: 1.1rem 'Cairo', sans-serif;
+  --header-font: lighter 3rem 'Passion One', cursive;
+  --title-font: lighter 1.5rem 'Passion One', cursive;
+}
