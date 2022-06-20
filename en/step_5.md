@@ -79,6 +79,3 @@ Take a moment to celebrate what you have made.
 Where will you take your new powers? Who will you show your web pages to? What will you make next?
 
 --- /task ---
-
-![scratch cat in at party hat](images/reflect.png)
-
