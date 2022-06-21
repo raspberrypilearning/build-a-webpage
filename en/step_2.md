@@ -57,7 +57,7 @@ You could also make a bullet point list of information that you want to include.
 
 --- task ---
 
-Open the [Build a web page starter project](https://trinket.io/library/trinkets/a61473a691){:target="_blank"}. Trinket will open in another browser tab.
+Open the [Build a web page starter project](https://trinket.io/embed/html/a61473a691){:target="_blank"}. Trinket will open in another browser tab.
 
 --- /task ---
 
