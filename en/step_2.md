@@ -5,7 +5,7 @@
 In this step you will decide what your webpage is about.
 </div>
 <div>
-![A photograph of a hand drawn design for the layout of a webpage.](images/step-two.jpg){:width="300px"}
+![A hand-drawn design of the layout of a webpage.](images/step-two.jpg){:width="300px"}
 </div>
 </div>
 
