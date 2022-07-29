@@ -39,7 +39,7 @@ Can you identify the HTML elements that are used in this project? How has CSS be
 Create a webpage about a topic that you find interesting and want to share with others. It could be helpful information for pet owners, a page of your favourite jokes, a walkthrough for a game you enjoy, some advice you have found helpful, a list of useful websites, or whatever you want to share with webpage visitors.
 
 Your webpage should:
-+ Have multiple sections that contain different types of content including text and images or emojis, headings, quotations, lists, or links
++ Have multiple sections that contain different types of content including text and images, emojis, headings, quotations, lists, or links
 + Use a colour palette, fonts, and CSS styles that work well together
 + Be accessible by using good colour contrast and font sizes
 
