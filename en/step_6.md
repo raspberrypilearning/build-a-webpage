@@ -1,6 +1,6 @@
 ## Upgrade your project
 
-If you have time you can upgrade your web page. You might have ideas to add more already or you might want to go back to the first step and look at other example projects again for more inspiration.
+If you have time, you can upgrade your webpage. You might already have ideas to add more to your webpage or you might want to go back to the first step and look at other example projects again for more inspiration.
 
 <mark>Add an upgraded example when available</mark>
 
@@ -8,40 +8,40 @@ Each example project in the [Introduction](.) has a ‘See Inside’ link for yo
 
 --- task ---
 
-You could improve:
+On your webpage, you could improve the:
 
-**Visual design**:
-+ the layout
-+ colours
-+ fonts
-+ emoji
-+ graphics
-+ borders and box shadows
-+ gradients
-+ background images
+**Visual design**
++ The layout
++ Colours
++ Fonts
++ Emojis
++ Graphics
++ Borders and box shadows
++ Gradients
++ Background images
 
-**Accessibility**:
-+ colour contrast 
-+ font sizes 
+**Accessibility**
++ Colour contrast 
++ Font sizes 
 + `alt` text on images
 
 **Content** 
-+ the words you have used
-+ can you add more useful information?
-+ would a list be more effective?
-+ should you use different heading elements?
-+ are there other web pages that you could link to?
++ The words you have used.
++ Can you add more useful information?
++ Would a list be more effective?
++ Should you use different heading elements?
++ Are there other webpages that you could link to?
 
 **User experience** 
 
-+ is your page well laid out so that information is easy to find
-+ if you have used animation, make sure it is not too distracting
++ Is your page well laid out so that information is easy to find?
++ If you have used animation, make sure it is not too distracting for visitors to your webpage.
 
 **Technical design**
 
-+ consider whether you could organise your CSS properties into classes that you would want to reuse,
-+ make sure you have used sensible names for CSS classes,
-+ add helpful comments to your HTML and CSS. 
++ Consider whether you could organise your CSS properties into classes that you would want to reuse.
++ Make sure you have used sensible names for CSS classes.
++ Add helpful comments to your HTML and CSS. 
 
 --- /task ---
 
