@@ -6,7 +6,7 @@ Now it's time to build your webpage.
 
 </div>
 <div>
-![A screenshot of the 'triple filter test' example webpage.](images/step-three.PNG){:width="300px"}
+![alt=""](images/step-three.PNG){:width="300px"}
 </div>
 </div>
 
