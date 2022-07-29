@@ -174,9 +174,9 @@ You can create your own class to make a new style.
 
 --- task ---
 
-**Test:** Show someone else your project and get their feedback. Do you want make any changes to your webpage? 
+**Test:** Show someone else your project and get their feedback. Do you want to make any changes to your webpage? 
 
-If you have a Trinket account, you can click on the Remix button to save a copy to your My Trinkets library.
+If you have a Trinket account, you can click on the 'Remix' button to save a copy to your My Trinkets library.
 
 If you don’t have a Trinket account, you can still come back to your project in the future on the same computer by using the starter project link.
 
