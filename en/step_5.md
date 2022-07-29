@@ -27,7 +27,7 @@ Your webpage could:
 
 --- task ---
 
-Use custom CSS classes that you create and apply.
+Use custom CSS classes that you created and applied.
 
 --- /task ---
 
@@ -44,7 +44,7 @@ Be shared to the Raspberry Pi Foundation community gallery to inspire others.
 --- /task ---
 
 
-When you reflect about how you made your webpage, it will help you in your future projects.
+When you reflect on how you made your webpage, it will help you in your future projects.
 
 Answer the questions below. You can draw, write, type in a document, talk to someone, or answer the questions in your own creative way that works best for you.
 
