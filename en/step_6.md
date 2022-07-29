@@ -1,6 +1,6 @@
 ## Upgrade your project
 
-If you have time, you can upgrade your webpage. You might already have ideas to add more to your webpage or you might want to go back to the first step and look at other example projects again for more inspiration.
+If you have time, you can upgrade your webpage. You might already have ideas to add to your webpage or you might want to go back to the first step and look at other example projects again for more inspiration.
 
 <mark>Add an upgraded example when available</mark>
 
