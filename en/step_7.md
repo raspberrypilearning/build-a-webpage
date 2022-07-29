@@ -10,4 +10,4 @@ You could enter one of your Design or Invent projects into Coolest Projects, or 
 
 [[[web-coolest-projects]]]
 
-Or, you can explore our [other web projects](https://projects.raspberrypi.org/en/projects?software%5B%5D=html-css-javascript) and try them out.
+You can also explore our [other web projects](https://projects.raspberrypi.org/en/projects?software%5B%5D=html-css-javascript) and try them out.
