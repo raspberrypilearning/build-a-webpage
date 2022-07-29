@@ -19,10 +19,10 @@ It could be:
 
 + ℹ️ An information page about a topic you are interested in
 + 🔗 A collection of links to the best webpages on a topic
-+ 🧧 Information about a celebration or event from your culture
++ 🧧 Information about a celebration or an event from your culture
 + 😜 Your favourite (polite!) jokes
 + 🎮 A game walkthrough or other tutorial
-+ 🐙 Information about a pet or animal
++ 🐙 Information about a pet or an animal
 + 💬 Some advice that you have found helpful
 + 🏞️ Tourist information about a place you have visited or would like to visit
 + 👩🏿‍🦼 Information about a medical condition or disability that you think more people should be aware of 
