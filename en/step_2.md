@@ -25,7 +25,7 @@ It could be:
 + 🐙 Information about a pet or animal
 + 💬 Some advice that you have found helpful
 + 🏞️ Tourist information about a place you have visited or would like to visit
-+ 👩🏿‍🦼 Information about a medical condition or disability that you think more people should be aware of. 
++ 👩🏿‍🦼 Information about a medical condition or disability that you think more people should be aware of 
 
 **Tip:** Try to choose a topic that you already know something about. This is so you can spend your time building your webpage, not researching a topic.
 
@@ -49,7 +49,7 @@ Who are you making your webpage for? You may find it helpful to think about the 
 
 --- task ---
 
-If you have paper and a pen or pencil you could sketch out your webpage layout. 
+If you have paper and a pen or pencil, you could sketch out your webpage layout. 
 
 You could also make a bullet point list of information that you want to include. 
 
