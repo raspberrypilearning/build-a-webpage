@@ -214,7 +214,7 @@ You can also publish your saved project to see what it would look like as a full
 
 You might find a bug not listed here. Can you figure out how to fix the bug?
 
-We love hearing about your bugs and how you fixed them. Use the feedback button at the bottom of this page if you found a different bug in your project.
+We love hearing about your bugs and how you fixed them. Use the **Send feedback** button at the bottom of this page if you found a different bug in your project.
 
 --- /task ---
 
