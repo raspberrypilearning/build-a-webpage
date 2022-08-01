@@ -2,12 +2,6 @@
 
 If you have time, you can upgrade your webpage. You might already have ideas to add to your webpage or you might want to go back to the first step and look at other example projects again for more inspiration.
 
-<div>
-**Dungeons and Dragons**: 
-
-<iframe src="https://trinket.io/embed/html/dd5186812e?outputOnly=true" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
-</div>
-
 Each example project in the [Introduction](.) has a ‘See Inside’ link for you to open the project and look at the code to get ideas and see how they work.
 
 --- task ---
@@ -49,4 +43,9 @@ On your webpage, you could improve the:
 
 --- /task ---
 
+<div>
+**Dungeons and Dragons Example**: 
+
+<iframe src="https://trinket.io/embed/html/dd5186812e?outputOnly=true" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+</div>
 
