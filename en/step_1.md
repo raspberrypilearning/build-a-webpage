@@ -71,7 +71,7 @@ As you look at these webpages, consider what makes them useful and informative, 
 </div>
 
 <div>
-**Be an LGBTQ+ Ally in the UK**: [See inside](https://trinket.io/html/7c4e35f48d){:target="_blank"}
+**Be an LGBTQ+ Ally**: [See inside](https://trinket.io/html/7c4e35f48d){:target="_blank"}
 
 <iframe src="https://trinket.io/embed/html/7c4e35f48d?outputOnly=true" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 </div>
