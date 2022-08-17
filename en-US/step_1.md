@@ -59,12 +59,6 @@ You webpage could:
 As you look at these webpages, consider what makes them useful and informative, as well as fun and accessible:
 
 <div>
-**Be an LGBTQ+ Ally**: [See inside](https://trinket.io/html/7c4e35f48d){:target="_blank"}
-
-<iframe src="https://trinket.io/embed/html/7c4e35f48d?outputOnly=true" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
-</div>
-
-<div>
 **Introduction to Raspberry Pi Pico**: [See inside](https://trinket.io/html/f33a473ca2){:target="_blank"}
 
 <iframe src="https://trinket.io/embed/html/f33a473ca2?outputOnly=true" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
@@ -76,12 +70,18 @@ As you look at these webpages, consider what makes them useful and informative, 
 <iframe src="https://trinket.io/embed/html/4ad54890fd?outputOnly=true" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 </div>
 
+<div>
+**Be an LGBTQ+ Ally**: [See inside](https://trinket.io/html/7c4e35f48d){:target="_blank"}
+
+<iframe src="https://trinket.io/embed/html/7c4e35f48d?outputOnly=true" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+</div>
+
 --- /task ---
 
 --- /no-print ---
 
 --- print-only ---
 
-![Complete project](images/favourite.png) ![Complete project](images/ally.png) ![Complete project](images/pico.png) ![Complete project](images/filter.png)
+![Complete project](images/favourite.png) ![Complete project](images/pico.png) ![Complete project](images/filter.png) ![Complete project](images/ally.png)
 
 --- /print-only ---
