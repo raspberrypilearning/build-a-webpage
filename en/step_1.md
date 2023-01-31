@@ -58,6 +58,8 @@ You webpage could:
 
 As you look at these webpages, consider what makes them useful and informative, as well as fun and accessible:
 
+⭐ Share your finished project for a chance of it being featured here.
+
 <div>
 **Introduction to Raspberry Pi Pico**: [See inside](https://trinket.io/html/f33a473ca2){:target="_blank"}
 
@@ -65,9 +67,15 @@ As you look at these webpages, consider what makes them useful and informative, 
 </div>
 
 <div>
-**Triple filter test**: [See inside](https://trinket.io/html/4ad54890fd){:target="_blank"}
+**⭐ Book review**: [See inside](https://trinket.io/html/188153d05d){:target="_blank"}** (featured community project)
 
-<iframe src="https://trinket.io/embed/html/4ad54890fd?outputOnly=true" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+<iframe src="https://trinket.io/embed/html/188153d05d?outputOnly=true" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+</div>
+
+<div>
+**⭐ Egypt**: [See inside](https://trinket.io/html/6d98115797){:target="_blank"}** (featured community project)
+
+<iframe src="https://trinket.io/embed/html/6d98115797?outputOnly=true" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 </div>
 
 --- /task ---
@@ -79,6 +87,5 @@ As you look at these webpages, consider what makes them useful and informative, 
 ![Complete project](images/favourite.png)
 ![Complete project](images/pico.png)
 ![Complete project](images/filter.png)
-![Complete project](images/ally.png)
 
 --- /print-only ---
