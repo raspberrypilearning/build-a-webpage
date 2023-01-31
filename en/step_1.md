@@ -23,7 +23,7 @@ Can you identify the HTML elements that are used in this project? How has CSS be
 <div>
 **Favourite things**: [See inside](https://trinket.io/html/9f404436b6){:target="_blank"}
 
-<iframe src="https://trinket.io/embed/html/9f404436b6?outputOnly=true" width="750" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+<iframe src="https://trinket.io/embed/html/9f404436b6?outputOnly=true" width="700" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 </div>
 </div>
 
@@ -63,19 +63,19 @@ As you look at these webpages, consider what makes them useful and informative, 
 <div>
 **Introduction to Raspberry Pi Pico**: [See inside](https://trinket.io/html/f33a473ca2){:target="_blank"}
 
-<iframe src="https://trinket.io/embed/html/f33a473ca2?outputOnly=true" width="750" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+<iframe src="https://trinket.io/embed/html/f33a473ca2?outputOnly=true" width="700" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 </div>
 
 <div>
 **⭐ Book review**: [See inside](https://trinket.io/html/188153d05d){:target="_blank"} (featured community project)
 
-<iframe src="https://trinket.io/embed/html/188153d05d?outputOnly=true" width="750" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+<iframe src="https://trinket.io/embed/html/188153d05d?outputOnly=true" width="700" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 </div>
 
 <div>
 **⭐ Egypt**: [See inside](https://trinket.io/html/6d98115797){:target="_blank"} (featured community project)
 
-<iframe src="https://trinket.io/embed/html/6d98115797?outputOnly=true" width="750" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+<iframe src="https://trinket.io/embed/html/6d98115797?outputOnly=true" width="700" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 </div>
 
 --- /task ---
