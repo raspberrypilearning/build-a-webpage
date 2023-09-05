@@ -43,7 +43,7 @@ Your webpage should:
 + Use a colour palette, fonts, and CSS styles that work well together
 + Be accessible by using good colour contrast and font sizes
 
-You webpage could:
+Your webpage could:
 + Use custom CSS classes that you create and apply
 + Use animations or flip cards to create interest
 + Be shared to the Raspberry Pi Foundation community gallery to inspire others 
