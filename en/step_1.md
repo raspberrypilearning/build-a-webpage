@@ -61,21 +61,19 @@ As you look at these webpages, consider what makes them useful and informative, 
 ⭐ Share your finished project for a chance of it being featured here.
 
 <div>
-**Introduction to Raspberry Pi Pico**: [See inside](https://trinket.io/html/f33a473ca2){:target="_blank"}
-
-<iframe src="https://trinket.io/embed/html/f33a473ca2?outputOnly=true" width="700" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+**⭐ Introduction to Raspberry Pi Pico**: [See inside](https://staging-editor.raspberrypi.org/en/projects/raspberry-pi-pico){:target="_blank"}
+<div>
+<iframe src="https://staging-editor.raspberrypi.org/en/embed/viewer/raspberry-pi-pico" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen> </iframe>
 </div>
 
+**⭐ Book review**: [See inside](https://staging-editor.raspberrypi.org/en/projects/book-review){:target="_blank"}
 <div>
-**⭐ Book review**: [See inside](https://trinket.io/html/188153d05d){:target="_blank"} (featured community project)
-
-<iframe src="https://trinket.io/embed/html/188153d05d?outputOnly=true" width="700" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+<iframe src="https://staging-editor.raspberrypi.org/en/embed/viewer/book-review" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen> </iframe>
 </div>
 
+**⭐ Egypt**: [See inside](https://staging-editor.raspberrypi.org/en/projects/egypt){:target="_blank"}
 <div>
-**⭐ Egypt**: [See inside](https://trinket.io/html/6d98115797){:target="_blank"} (featured community project)
-
-<iframe src="https://trinket.io/embed/html/6d98115797?outputOnly=true" width="700" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+<iframe src="https://staging-editor.raspberrypi.org/en/embed/viewer/egypt" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen> </iframe>
 </div>
 
 --- /task ---
