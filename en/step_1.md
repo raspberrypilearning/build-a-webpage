@@ -20,11 +20,11 @@ You will:
 <div style="flex-basis: 200px; flex-grow: 1">
 Can you identify the HTML elements that are used in this project? How has CSS been used to style and animate the page?
 </div>
+**Favourite things**: [See inside](https://staging-editor.raspberrypi.org/en/projects/favourite-things){:target="_blank"}
 <div>
-**Favourite things**: [See inside](https://trinket.io/html/9f404436b6){:target="_blank"}
-
-<iframe src="https://trinket.io/embed/html/9f404436b6?outputOnly=true" width="700" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+<iframe src="https://staging-editor.raspberrypi.org/en/embed/viewer/favourite-things" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen> </iframe>
 </div>
+
 </div>
 
 --- /task ---
