@@ -100,8 +100,6 @@ Insert text elements.
 
 [[[web-unordered-list]]]
 
-[[[web-create-link]]]
-
 [[[full-width-quote]]]
 
 Style your text.
