@@ -76,6 +76,11 @@ As you look at these webpages, consider what makes them useful and informative, 
 <iframe src="https://staging-editor.raspberrypi.org/en/embed/viewer/egypt" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen> </iframe>
 </div>
 
+**⭐ Fashion Pi**: [See inside](https://staging-editor.raspberrypi.org/en/projects/fashion-pi){:target="_blank"}
+<div>
+<iframe src="https://staging-editor.raspberrypi.org/en/embed/viewer/fashion-pi" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen> </iframe>
+</div>
+
 --- /task ---
 
 --- /no-print ---
