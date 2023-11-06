@@ -43,9 +43,9 @@ On your webpage, you could improve the:
 
 --- /task ---
 
-**Dungeons and Dragons Example**: [See inside](https://staging-editor.raspberrypi.org/en/projects/what-is-d-and-d){:target="_blank"}
+**Dungeons and Dragons Example**: [See inside](https://editor.raspberrypi.org/en/projects/what-is-d-and-d){:target="_blank"}
 <div>
-<iframe src="https://staging-editor.raspberrypi.org/en/embed/viewer/what-is-d-and-d" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen> </iframe>
+<iframe src="https://editor.raspberrypi.org/en/embed/viewer/what-is-d-and-d" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen> </iframe>
 </div>
 
 

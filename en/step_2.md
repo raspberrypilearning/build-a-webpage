@@ -57,7 +57,7 @@ You could also make a bullet point list of information that you want to include.
 
 --- task ---
 
-Open the [Build a webpage starter project](https://staging-editor.raspberrypi.org/en/projects/build-a-web-page-starter){:target="_blank"}. Trinket will open in another browser tab.
+Open the [Build a webpage starter project](https://editor.raspberrypi.org/en/projects/build-a-web-page-starter){:target="_blank"}. Trinket will open in another browser tab.
 
 --- /task ---
 

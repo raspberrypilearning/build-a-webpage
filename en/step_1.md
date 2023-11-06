@@ -20,9 +20,9 @@ You will:
 <div style="flex-basis: 200px; flex-grow: 1">
 Can you identify the HTML elements that are used in this project? How has CSS been used to style and animate the page?
 </div>
-**Favourite things**: [See inside](https://staging-editor.raspberrypi.org/en/projects/favourite-things){:target="_blank"}
+**Favourite things**: [See inside](https://editor.raspberrypi.org/en/projects/favourite-things){:target="_blank"}
 <div>
-<iframe src="https://staging-editor.raspberrypi.org/en/embed/viewer/favourite-things" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen> </iframe>
+<iframe src="https://editor.raspberrypi.org/en/embed/viewer/favourite-things" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen> </iframe>
 </div>
 
 </div>
@@ -61,24 +61,24 @@ As you look at these webpages, consider what makes them useful and informative, 
 ⭐ Share your finished project for a chance of it being featured here.
 
 <div>
-**⭐ Introduction to Raspberry Pi Pico**: [See inside](https://staging-editor.raspberrypi.org/en/projects/raspberry-pi-pico){:target="_blank"}
+**⭐ Introduction to Raspberry Pi Pico**: [See inside](https://editor.raspberrypi.org/en/projects/raspberry-pi-pico){:target="_blank"}
 <div>
-<iframe src="https://staging-editor.raspberrypi.org/en/embed/viewer/raspberry-pi-pico" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen> </iframe>
+<iframe src="https://editor.raspberrypi.org/en/embed/viewer/raspberry-pi-pico" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen> </iframe>
 </div>
 
-**⭐ Book review**: [See inside](https://staging-editor.raspberrypi.org/en/projects/book-review){:target="_blank"}
+**⭐ Book review**: [See inside](https://editor.raspberrypi.org/en/projects/book-review){:target="_blank"}
 <div>
-<iframe src="https://staging-editor.raspberrypi.org/en/embed/viewer/book-review" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen> </iframe>
+<iframe src="https://editor.raspberrypi.org/en/embed/viewer/book-review" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen> </iframe>
 </div>
 
-**⭐ Egypt**: [See inside](https://staging-editor.raspberrypi.org/en/projects/egypt){:target="_blank"}
+**⭐ Egypt**: [See inside](https://editor.raspberrypi.org/en/projects/egypt){:target="_blank"}
 <div>
-<iframe src="https://staging-editor.raspberrypi.org/en/embed/viewer/egypt" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen> </iframe>
+<iframe src="https://editor.raspberrypi.org/en/embed/viewer/egypt" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen> </iframe>
 </div>
 
-**⭐ Fashion Pi**: [See inside](https://staging-editor.raspberrypi.org/en/projects/fashion-pi){:target="_blank"}
+**⭐ Fashion Pi**: [See inside](https://editor.raspberrypi.org/en/projects/fashion-pi){:target="_blank"}
 <div>
-<iframe src="https://staging-editor.raspberrypi.org/en/embed/viewer/fashion-pi" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen> </iframe>
+<iframe src="https://editor.raspberrypi.org/en/embed/viewer/fashion-pi" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen> </iframe>
 </div>
 
 --- /task ---
