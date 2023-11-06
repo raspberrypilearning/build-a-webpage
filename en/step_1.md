@@ -20,11 +20,11 @@ You will:
 <div style="flex-basis: 200px; flex-grow: 1">
 Can you identify the HTML elements that are used in this project? How has CSS been used to style and animate the page?
 </div>
+**Favourite things**: [See inside](https://editor.raspberrypi.org/en/projects/favourite-things){:target="_blank"}
 <div>
-**Favourite things**: [See inside](https://trinket.io/html/9f404436b6){:target="_blank"}
-
-<iframe src="https://trinket.io/embed/html/9f404436b6?outputOnly=true" width="700" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+<iframe src="https://editor.raspberrypi.org/en/embed/viewer/favourite-things" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen> </iframe>
 </div>
+
 </div>
 
 --- /task ---
@@ -61,21 +61,24 @@ As you look at these webpages, consider what makes them useful and informative, 
 ⭐ Share your finished project for a chance of it being featured here.
 
 <div>
-**Introduction to Raspberry Pi Pico**: [See inside](https://trinket.io/html/f33a473ca2){:target="_blank"}
-
-<iframe src="https://trinket.io/embed/html/f33a473ca2?outputOnly=true" width="700" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+**⭐ Introduction to Raspberry Pi Pico**: [See inside](https://editor.raspberrypi.org/en/projects/raspberry-pi-pico){:target="_blank"}
+<div>
+<iframe src="https://editor.raspberrypi.org/en/embed/viewer/raspberry-pi-pico" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen> </iframe>
 </div>
 
+**⭐ Book review**: [See inside](https://editor.raspberrypi.org/en/projects/book-review){:target="_blank"}
 <div>
-**⭐ Book review**: [See inside](https://trinket.io/html/188153d05d){:target="_blank"} (featured community project)
-
-<iframe src="https://trinket.io/embed/html/188153d05d?outputOnly=true" width="700" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+<iframe src="https://editor.raspberrypi.org/en/embed/viewer/book-review" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen> </iframe>
 </div>
 
+**⭐ Egypt**: [See inside](https://editor.raspberrypi.org/en/projects/egypt){:target="_blank"}
 <div>
-**⭐ Egypt**: [See inside](https://trinket.io/html/6d98115797){:target="_blank"} (featured community project)
+<iframe src="https://editor.raspberrypi.org/en/embed/viewer/egypt" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen> </iframe>
+</div>
 
-<iframe src="https://trinket.io/embed/html/6d98115797?outputOnly=true" width="700" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+**⭐ Fashion Pi**: [See inside](https://editor.raspberrypi.org/en/projects/fashion-pi){:target="_blank"}
+<div>
+<iframe src="https://editor.raspberrypi.org/en/embed/viewer/fashion-pi" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen> </iframe>
 </div>
 
 --- /task ---

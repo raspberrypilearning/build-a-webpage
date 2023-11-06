@@ -100,8 +100,6 @@ Insert text elements.
 
 [[[web-unordered-list]]]
 
-[[[web-create-link]]]
-
 [[[full-width-quote]]]
 
 Style your text.
@@ -175,18 +173,6 @@ You can create your own class to make a new style.
 --- task ---
 
 **Test:** Show someone else your project and get their feedback. Do you want to make any changes to your webpage? 
-
-If you have a Trinket account, you can click on the 'Remix' button to save a copy to your My Trinkets library.
-
-If you don’t have a Trinket account, you can still come back to your project in the future on the same computer by using the starter project link.
-
-You can also publish your saved project to see what it would look like as a full webpage. Each time you save your project, your published site is updated.
-
-[[[trinket-publish-project]]]
-
-**Tip:** To make sure your webpage can be viewed by people with disabilities and that it appeals to a wide audience, you need to make sure it is accessible.
-
-[[[check-accessibility]]]
 
 **Tip:** Now is a good time to add comments to your code to make it easier to debug and upgrade. Comments also help other people read you code. 
 
