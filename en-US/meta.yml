@@ -1,0 +1,25 @@
+title: Build a webpage
+hero_image: images/banner.png
+description: Build a webpage about something you want to share.
+version: 4
+listed: false
+copyedit: false
+last_tested: "2021-03-26"
+steps:
+  - 
+    title: Introduction
+  - 
+    title: Your topic
+  - 
+    title: Build and test
+    completion: engaged
+  - 
+    title: Share
+    completion: internal
+  - 
+    title: Reflection
+    completion: external
+  - 
+    title: Upgrade your project
+  - 
+    title: What next?
