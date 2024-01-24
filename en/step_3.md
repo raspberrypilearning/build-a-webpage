@@ -30,7 +30,7 @@ Use or personalise starter project colour palettes.
 
 Create a colour palette from an image.
 
-[[[trinket-image-library]]]
+[[[rpfeditor-image-library]]]
 
 [[[colours-from-image]]]
 
