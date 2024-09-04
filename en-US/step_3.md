@@ -30,7 +30,7 @@ Use or personalise starter project colour palettes.
 
 Create a colour palette from an image.
 
-[[[trinket-image-library]]]
+[[[rpfeditor-image-library]]]
 
 [[[colours-from-image]]]
 
@@ -99,8 +99,6 @@ Insert text elements.
 [[[web-ordered-list]]]
 
 [[[web-unordered-list]]]
-
-[[[web-create-link]]]
 
 [[[full-width-quote]]]
 
@@ -176,18 +174,6 @@ You can create your own class to make a new style.
 
 **Test:** Show someone else your project and get their feedback. Do you want to make any changes to your webpage?
 
-If you have a Trinket account, you can click on the 'Remix' button to save a copy to your My Trinkets library.
-
-If you don’t have a Trinket account, you can still come back to your project in the future on the same computer by using the starter project link.
-
-You can also publish your saved project to see what it would look like as a full webpage. Each time you save your project, your published site is updated.
-
-[[[trinket-publish-project]]]
-
-**Tip:** To make sure your webpage can be viewed by people with disabilities and that it appeals to a wide audience, you need to make sure it is accessible.
-
-[[[check-accessibility]]]
-
 **Tip:** Now is a good time to add comments to your code to make it easier to debug and upgrade. Comments also help other people read you code.
 
 [[[web-comment-code]]]
@@ -214,7 +200,7 @@ You can also publish your saved project to see what it would look like as a full
 
 You might find a bug not listed here. Can you figure out how to fix the bug?
 
-We love hearing about your bugs and how you fixed them. Use the feedback button at the bottom of this page if you found a different bug in your project.
+We love hearing about your bugs and how you fixed them. Use the **Send feedback** button at the bottom of this page if you found a different bug in your project.
 
 --- /task ---
 
