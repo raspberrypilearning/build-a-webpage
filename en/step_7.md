@@ -2,7 +2,7 @@
 
 You have reached the end of the [Intro to web](https://projects.raspberrypi.org/en/pathways/web-intro) path!
 
-Now you can create webpages on any topic you are interested in and share them. Try using HTML and CSS to design and build more webpages. If you need a reminder of what you have learned, you can go to the [Web guide](https://projects.raspberrypi.org/en/projects/getting-started-web-dev/0).
+Now you can create webpages on any topic you are interested in and share them. Try using HTML and CSS to design and build more webpages. If you want to continue learning about web development, you can have a look at the [More Web](https://projects.raspberrypi.org/en/pathways/more-web) path.
 
 You could enter one of your Design or Invent projects into Coolest Projects, or make a completely new webpage.
 
