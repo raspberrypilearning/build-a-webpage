@@ -1,11 +1,11 @@
-## What next?
+## Wat kun je verder nog doen?
 
-You have reached the end of the [Intro to web](https://projects.raspberrypi.org/en/pathways/web-intro) path!
+Je hebt het einde bereikt van het [Inleiding tot web](https://projects.raspberrypi.org/nl/pathways/microbit-intro) pad!
 
-Now you can create webpages on any topic you are interested in and share them. Try using HTML and CSS to design and build more webpages. If you want to continue learning about web development, you can have a look at the [More Web](https://projects.raspberrypi.org/en/pathways/more-web) path.
+Nu kun je webpagina's maken in elk onderwerp waarin je geïnteresseerd bent en ze delen. Probeer HTML en CSS te gebruiken om meer webpagina's te ontwerpen en te bouwen. Als je verder wilt leren over webontwikkeling, kun je een kijkje nemen op het [Meer web](https://projects.raspberrypi.org/enl/pathways/more-web) pad.
 
-You could enter one of your Design or Invent projects into Coolest Projects, or make a completely new webpage.
+Je kunt een van jouw Ontwerp- of Bedenk-projecten toevoegen aan Coolest Projects, of een compleet nieuwe webpagina maken.
 
 [[[web-coolest-projects]]]
 
-You can also explore our [other web projects](https://projects.raspberrypi.org/en/projects?software%5B%5D=html-css-javascript) and try them out.
+Je kunt ook onze [andere webprojecten](https://projects.raspberrypi.org/nl/projects?software%5B%5D=html-css-javascript) verkennen en ze uitproberen.
