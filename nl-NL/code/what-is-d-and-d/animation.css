@@ -28,7 +28,7 @@
     transform: scale(1.1, 0.9) translateY(0); /* Breedte vergroten en hoogte verkleinen voor pre bounce squash effect */
   }
   30% {
-    transform: scale(1, 1) translateY(-6rem); /* Return to actual size and move emoji up 100px from current position */
+    transform: scale(1, 1) translateY(-6rem); /* Keer terug naar werkelijke grootte en verplaats emoji omhoog met 100px van de huidige positie */
   }
   50% {
     transform: scale(1, 1) translateY(0); /* Verplaats emoji terug naar de startpositie */
