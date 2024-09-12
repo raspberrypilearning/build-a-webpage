@@ -1,69 +1,69 @@
-## Your topic
+## Jouw onderwerp
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-In this step you will decide what your webpage is about.
+In deze stap beslis je waar je webpagina over gaat.
 </div>
 <div>
-![A hand-drawn design of the layout of a webpage.](images/step-two.jpg){:width="300px"}
+![Een hand-getekend ontwerp van de lay-out van een webpagina.](images/step-two.jpg){:width="300px"}
 </div>
 </div>
 
-### What do you want to share?
+### Wat wil je delen?
 
 \--- task ---
 
-Think about the purpose of your webpage.
+Denk na over het doel van je webpagina.
 
-It could be:
+Dat kan zijn:
 
-- ℹ️ An information page about a topic you are interested in
-- 🔗 A collection of links to the best webpages on a topic
-- 🧧 Information about a celebration or an event from your culture
-- 😜 Your favourite (polite!) jokes
-- 🎮 A game walkthrough or other tutorial
-- 🐙 Information about a pet or an animal
-- 💬 Some advice that you have found helpful
-- 🏞️ Tourist information about a place you have visited or would like to visit
-- 👩🏿‍🦼 Information about a medical condition or disability that you think more people should be aware of
+- ℹ️ Een informatiepagina over een onderwerp waar je in geïnteresseerd bent
+- 🔗 Een verzameling links naar de beste webpagina's over een onderwerp
+- 🧧 Informatie over een feestdag of een gebeurtenis uit jouw cultuur
+- 😜 Jouw favoriet (beleefd!) grappen
+- 🎮 Een stap voor stap uitleg van een spel of een andere zelfstudie
+- 🐙 Informatie over een huisdier of een dier
+- 💬 Handige adviezen
+- 🏞️ Toeristische informatie over een plek die je hebt bezocht of wilt bezoeken
+- 👩🏿‍🦼 Informatie over een medische aandoening of beperking waarvan je vindt dat meer mensen bewust zouden van moeten zijn
 
-**Tip:** Try to choose a topic that you already know something about. This is so you can spend your time building your webpage, not researching a topic.
+**Tip:** Probeer een onderwerp te kiezen waar je al iets vanaf weet. Zo kunt je je tijd besteden aan het bouwen van je webpagina, en niet aan het onderzoeken van een onderwerp.
 
 \--- /task ---
 
-### Who is it for?
+### Voor wie is het?
 
 \--- task ---
 
-Who are you making your webpage for? You may find it helpful to think about the types of visitors you want to make your page for.
+Voor wie maak je je webpagina? Misschien is het handig om na te denken over het type bezoekers waarvoor je je pagina wilt maken.
 
-- How old will your visitors be?
-- How much will they know about your topic?
-- Is the page for other experts in your topic or is it for beginners?
+- Hoe oud zullen jullie bezoekers zijn?
+- Hoeveel weten ze over je onderwerp?
+- Is de pagina bedoeld voor andere experts in jouw onderwerp of is het bedoeld voor beginners?
 
-**Tip:** If you make a page about a topic you know lots about, make sure you explain it clearly to other people.
+**Tip:** Als je een pagina maakt over een onderwerp waar je veel over weet, zorg er dan voor dat je het duidelijk uitlegt aan andere mensen.
 
 \--- /task ---
 
-### Get started
+### Aan de slag
 
 \--- task ---
 
-If you have paper and a pen or pencil, you could sketch out your webpage layout.
+Als je papier en een pen of potlood hebt, kun je de lay-out van je webpagina schetsen.
 
-You could also make a bullet point list of information that you want to include.
-
-\--- /task ---
-
-\--- task ---
-
-Open the [Build a webpage starter project](https://editor.raspberrypi.org/en/projects/build-a-web-page-starter){:target="_blank"}. Trinket will open in another browser tab.
+Je kunt ook een kort lijstje maken met informatie die je wilt opnemen.
 
 \--- /task ---
 
 \--- task ---
 
-Change the `<title>` element text to the title of your page.
+Open het [Bouw een webpagina startproject](https://editor.raspberrypi.org/en/projects/build-a-web-page-starter){:target="_blank"}. The code editor will open in another browser tab.
+
+\--- /task ---
+
+\--- task ---
+
+Wijzig de `<title>` elementtekst in de titel van jouw pagina.
 
 [[[web-add-title-head]]]
 
