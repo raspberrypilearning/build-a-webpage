@@ -1,79 +1,79 @@
-## Reflection
+## Reflectie
 
-Did you meet the **project brief**? Think about your project and go through the checklist below and check off the points that apply to your project.
+Voldoet je project aan de projectsamenvatting\*\*? Denk na over je project en doorloop de onderstaande checklist en vink af wat van toepassing is op je project.
 
-Does your webpage have:
+Heeft jouw webpagina:
 
 \--- task ---
 
-Multiple sections that contain different types of content, such as text and images, emojis, headings, quotations, lists, or links?
+Meerdere secties met verschillende soorten inhoud, zoals tekst en afbeeldingen, emoji's, koppen, citaten, lijsten of links?
 
 \--- /task ---
 
 \--- task ---
 
-A colour palette, fonts, and CSS styles that work well together? You could ask other people for their opinion, but you don't have to make changes if you don't agree with them.
+Een kleurenpalet, lettertypen en CSS-stijlen gebruikt die goed samengaan? Je kunt andere mensen om hun mening vragen, maar je hoeft niets te veranderen als je het niet met hen eens bent.
 
 \--- /task ---
 
 \--- task ---
 
-Accessibility through a good colour contrast and easily readable font sizes?
+Toegankelijkheid door een goed kleurcontrast en goed leesbare lettergroottes?
 
 \--- /task ---
 
-Your webpage could:
+Je webpagina zou:
 
 \--- task ---
 
-Use custom CSS classes that you created and applied.
-
-\--- /task ---
-
-\--- task ---
-
-Use animations or flip cards to create interest.
+Aangepaste CSS klassen kunnen gebruiken die je zelft maakt en toepast.
 
 \--- /task ---
 
 \--- task ---
 
-Be shared to the Raspberry Pi Foundation community gallery to inspire others.
-
-\--- /task ---
-
-When you reflect on how you made your webpage, it will help you in your future projects.
-
-Answer the questions below. You can draw, write, type in a document, talk to someone, or answer the questions in your own creative way that works best for you.
-
-\--- task ---
-
-How did you choose the topic for your webpage?
+Animaties of flipcards kunnen gebruiken om interesse te wekken.
 
 \--- /task ---
 
 \--- task ---
 
-Which HTML or CSS technique do you like best?
+Kunnen worden gedeeld met de Raspberry Pi Foundation galerij om anderen te inspireren.
+
+\--- /task ---
+
+Wanneer je nadenkt over hoe je je webpagina hebt gemaakt, helpt dit je in je toekomstige projecten.
+
+Beantwoord de onderstaande vragen. Je kunt tekenen, schrijven, typen in een document, met iemand praten, of de vragen beantwoorden op je eigen creatieve manier die het beste voor je werkt.
+
+\--- task ---
+
+Hoe heb je het onderwerp voor je webpagina gekozen?
+
+\--- /task ---
+
+\--- task ---
+
+Welke HTML- of CSS-techniek vind je het leukste?
 
 \--- /task ---
 
 \--- task ---
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-"Design isn't finished until someone is using it." (Brenda Laurel).
+"Een ontwerp is pas af als iemand het gebruikt." (Brenda Laurel).
 </p>
 
-In the 'Introduction to web' path you used lots of different design skills, including visual design, design for accessibility and user experience, and technical design. Which type of design do you enjoy most?
+In het pad 'Inleiding tot web' heb je veel verschillende ontwerpvaardigheden gebruikt, waaronder visueel ontwerp, ontwerp voor toegankelijkheid en gebruikerservaring, en technisch ontwerp. Welk type ontwerp vind je het leukst?
 
 \--- /task ---
 
-### Now you are a web content developer!
+### Nu ben je een web content onwikkelaar!
 
-Take a moment to celebrate what you have made.
+Neem even de tijd om dit te vieren.
 
 \--- task ---
 
-Where will you take your new powers? Who will you show your webpages to? What will you make next?
+Waar ga je met je nieuwe kennis doen? Aan wie ga je je webpagina's laten zien? Wat ga je hierna maken?
 
 \--- /task ---
