@@ -1,8 +1,8 @@
-## Build and test
+## Bouw en test
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-Now it's time to build your webpage. 
+Nu is het tijd om jouw webpagina te bouwen. 
 
 </div>
 <div>
@@ -10,41 +10,41 @@ Now it's time to build your webpage.
 </div>
 </div>
 
-**Tip:** Plan your project so you can create a basic webpage in the time you have available and then upgrade the project if you have time left.
+**Tip:** Plan jouw project zodat je een basis webpagina kunt maken in de tijd die je nu hebt voorzien en vervolgens het project kunt upgraden als je nog tijd over hebt.
 
-**Tip:** Remember to test your project each time you add something. It is much easier to find and fix bugs before you make more changes.
+\*\*Tip: \*\* Vergeet niet om je project elke keer te testen wanneer je iets toevoegt. Het is veel gemakkelijker om bugs te vinden en op te lossen voordat je meer wijzigingen aanbrengt.
 
 \--- task ---
 
-You have built up some really useful skills. Here is a reminder to help you make your webpage:
+Je hebt een aantal heel nuttige vaardigheden opgebouwd. Hier is een geheugensteuntje om je te helpen bij het maken van jouw webpagina:
 
-### Colour palette
+### Kleurenpalet
 
 [[[web-colour-palette-variables]]]
 
-Use or personalise starter project colour palettes.
+Gebruik of personaliseer de kleurenpaletten van het startproject.
 
 [[[hex-colour-palettes]]]
 
 [[[web-colour-palette]]]
 
-Create a colour palette from an image.
+Maak een kleurenpalet van een afbeelding.
 
 [[[rpfeditor-image-library]]]
 
 [[[colours-from-image]]]
 
-Customise colour palettes for style and accessibility.
+Pas kleurenpaletten aan voor stijl en toegankelijkheid.
 
 [[[contrast-checker]]]
 
 [[[add-colour-variables]]]
 
-Use your colour palettes to set text and background colours.
+Gebruik je kleurenpaletten om tekst- en achtergrondkleuren in te stellen.
 
 [[[web-primary-secondary]]]
 
-### Structure
+### Structuur
 
 [[[overall-page-structure]]]
 
@@ -53,12 +53,12 @@ Use your colour palettes to set text and background colours.
 [[[full-width-quote]]]
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-Webpages can be viewed on many different devices and should be <span style="color: #0faeb0">**responsive**</span> to each device. This means that if a user views your website on a mobile phone, it should respond to a smaller screen and if they view it on a desktop PC, it should respond to a larger screen. 
+Webpagina's kunnen op veel verschillende apparaten worden bekeken en moeten <span style="color: #0faeb0">**responsive**</span> zijn voor elk apparaat. Dit betekent dat als een gebruiker jouw webpagina op een mobiele telefoon bekijkt, het moet reageren op een kleiner scherm en als ze het op een desktop PC bekijken, moet het op een groter scherm reageren. 
 </p>
 
 [[[using-rem]]]
 
-CSS can also be used to responsively change the layout of the webpage.
+CSS kan ook worden gebruikt om de lay-out van de webpagina responsief te wijzigen.
 
 [[[side-by-side-section]]]
 
@@ -74,15 +74,15 @@ CSS can also be used to responsively change the layout of the webpage.
 
 [[[web-wrap-gap]]]
 
-Align and space your content to improve the look of your webpage.
+Lijn je inhoud uit en zorg voor voldoende ruimte om het uiterlijk van jouw webpagina te verbeteren.
 
 [[[web-x-y-centering]]]
 
 [[[padding-margins]]]
 
-### Fonts and text elements
+### Lettertypen en tekstelementen
 
-Choose fonts to use on your webpage.
+Kies lettertypen om te gebruiken op je webpagina.
 
 [[[included-fonts]]]
 
@@ -90,11 +90,11 @@ Choose fonts to use on your webpage.
 
 [[[google-fonts]]]
 
-You can use placeholder text while you work on your layout.
+Je kunt tijdelijke tekst gebruiken terwijl je aan jouw lay-out werkt.
 
 [[[add-placeholder-text]]]
 
-Insert text elements.
+Tekstelementen invoegen.
 
 [[[web-ordered-list]]]
 
@@ -102,7 +102,7 @@ Insert text elements.
 
 [[[full-width-quote]]]
 
-Style your text.
+Stijl je tekst.
 
 [[[web-headers-large-text]]]
 
@@ -110,27 +110,27 @@ Style your text.
 
 [[[web-strong-em]]]
 
-### Images
+### Afbeeldingen
 
-Insert an image from the starter project library.
+Voeg een afbeelding toe uit de startprojectbibliotheek.
 
 [[[trinket-image-library]]]
 
 [[[web-alt-text]]]
 
-Use an emoji as an image.
+Gebruik een emoji als afbeelding.
 
 [[[choose-an-emoji]]]
 
 [[[huge-emoji]]]
 
-Add a background image.
+Voeg een achtergrondafbeelding toe.
 
 [[[web-background-image]]]
 
 [[[add-transparency]]]
 
-**Tip:** You can style your images with rounded corners or borders.
+**Tip:** Je kunt je afbeeldingen vormgeven met afgeronde hoeken of randen.
 
 [[[rounded-corners]]]
 
@@ -138,21 +138,21 @@ Add a background image.
 
 [[[web-box-shadow]]]
 
-### Animations
+### Animaties
 
-Create web flip cards.
+Maak web flip cards.
 
 [[[web-flip-cards]]]
 
-Use animations to change the appearance or position of elements on your page over time.
+Gebruik animaties om het uiterlijk of de positie van elementen op jouw pagina in de loop van de tijd te wijzigen.
 
 [[[web-starter-animations]]]
 
 [[[web-customise-animations]]]
 
-### More style
+### Meer stijl
 
-Add more style to any elements on your webpage.
+Voeg meer stijl toe aan elementen op je webpagina.
 
 [[[rounded-corners]]]
 
@@ -164,7 +164,7 @@ Add more style to any elements on your webpage.
 
 [[[web-box-shadow]]]
 
-You can create your own class to make a new style.
+Je kunt je eigen klasse maken om een nieuwe stijl te maken.
 
 [[[web-add-class]]]
 
@@ -172,9 +172,9 @@ You can create your own class to make a new style.
 
 \--- task ---
 
-**Test:** Show someone else your project and get their feedback. Do you want to make any changes to your webpage?
+**Test:** Laat iemand anders je project zien en vraag feedback. Wil je wijzigingen aanbrengen op jouw webpagina?
 
-**Tip:** Now is a good time to add comments to your code to make it easier to debug and upgrade. Comments also help other people read you code.
+**Tip:** Dit is een goed moment om opmerkingen aan jouw code toe te voegen, zodat je deze gemakkelijker kunt debuggen en upgraden. Opmerkingen zorgen er ook voor dat andere mensen jouw code kunnen lezen.
 
 [[[web-comment-code]]]
 
@@ -182,15 +182,15 @@ You can create your own class to make a new style.
 
 \--- task ---
 
-**Debug:** You might find some bugs in your HTML or CSS that you need to fix. Here are some common bugs.
+**Fouten oplossen**: Mogelijk vind je enkele fouten in jouw HTML of CSS die je moet oplossen. Hier zijn enkele veelvoorkomende fouten.
 
-**My webpage isn't displaying correctly**
+**Mijn webpagina wordt niet correct weergegeven**
 
 [[[incorrect-tags]]]
 
 [[[mismatched-tags]]]
 
-**Further debug questions**
+**Verdere debug vragen**
 
 [[[image-not-displayed]]]
 
@@ -198,8 +198,8 @@ You can create your own class to make a new style.
 
 [[[web-debug-link]]]
 
-You might find a bug not listed here. Can you figure out how to fix the bug?
+Je kunt een fout vinden die hier niet wordt vermeld. Kun je erachter komen hoe je het kunt oplossen?
 
-We love hearing about your bugs and how you fixed them. Use the **Send feedback** button at the bottom of this page if you found a different bug in your project.
+We horen graag over je fouten en hoe je ze hebt opgelost. Gebruik de **Stuur feedback** knop onderaan deze pagina als je een andere bug in jouw project hebt gevonden.
 
 \--- /task ---
