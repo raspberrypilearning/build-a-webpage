@@ -1,52 +1,52 @@
-## Upgrade your project
+## Améliorer ton projet
 
-If you have time, you can upgrade your webpage. You might already have ideas to add to your webpage or you might want to go back to the first step and look at other example projects again for more inspiration.
+Si tu as le temps, tu peux améliorer ta page web. Tu as peut-être déjà des idées à ajouter à ta page web ou tu souhaiteras peut-être revenir à la première étape et consulter à nouveau d’autres exemples de projets pour plus d’inspiration.
 
-Each example project in the [Introduction](.) has a ‘See Inside’ link for you to open the project and look at the code to get ideas and see how they work.
+Chaque exemple de projet dans [Introduction](.) a un lien « voir à l'intérieur » pour ouvrir le projet et regarder le code pour obtenir des idées et voir comment elles fonctionnent.
 
 \--- task ---
 
-On your webpage, you could improve the:
+Sur ta page web, tu pourrais améliorer :
 
-**Visual design**
+**Conception visuelle**
 
-- The layout
-- Colours
-- Fonts
+- Mise en page
+- Couleurs
+- Polices
 - Emojis
-- Graphics
-- Borders and box shadows
-- Gradients
-- Background images
+- Graphismes
+- Bordures et ombres des boîtes
+- Dégradés
+- Images d'arrière-plan
 
-**Accessibility**
+**Accessibilité**
 
-- Colour contrast
-- Font sizes
-- `alt` text on images
+- Contraste des couleurs
+- Tailles de police
+- texte `alt` sur les images
 
-**Content**
+**Contenu**
 
-- The words you have used.
-- Can you add more useful information?
-- Would a list be more effective?
-- Should you use different heading elements?
-- Are there other webpages that you could link to?
+- Les mots que tu as utilisés.
+- Peux-tu ajouter des informations plus utiles ?
+- Une liste serait-elle plus efficace ?
+- Dois-tu utiliser des éléments de titre différents ?
+- Y a-t-il d'autres pages web vers lesquelles tu pourrais créer un lien ?
 
-**User experience**
+**Expérience utilisateur**
 
-- Is your page well laid out so that information is easy to find?
-- If you have used animation, make sure it is not too distracting for visitors to your webpage.
+- Ta page est-elle bien présentée pour que les informations soient faciles à trouver ?
+- Si tu as utilisé une animation, assure-toi qu'elle ne soit pas trop gênante pour les visiteurs de ta page web.
 
-**Technical design**
+**Design technique**
 
-- Consider whether you could organise your CSS properties into classes that you would want to reuse.
-- Make sure you have used sensible names for CSS classes.
-- Add helpful comments to your HTML and CSS.
+- Considère si tu peux organiser tes propriétés CSS en classes que tu souhaiterais réutiliser.
+- Assure-toi d'avoir utilisé des noms judicieux pour les classes CSS.
+- Ajoute des commentaires utiles à ton HTML et CSS.
 
 \--- /task ---
 
-**Dungeons and Dragons Example**: [See inside](https://editor.raspberrypi.org/en/projects/what-is-d-and-d){:target="_blank"}
+**Exemple de Donjons et Dragons** : [voir à l'intérieur](https://editor.raspberrypi.org/fr-FR/projects/what-is-d-and-d){:target="_blank"}
 
 <div>
 <iframe src="https://editor.raspberrypi.org/en/embed/viewer/what-is-d-and-d" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen> </iframe>
