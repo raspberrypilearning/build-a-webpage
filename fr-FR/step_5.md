@@ -1,79 +1,79 @@
-## Reflection
+## Réflexion
 
-Did you meet the **project brief**? Think about your project and go through the checklist below and check off the points that apply to your project.
+As-tu respecté le **descriptif du projet** ? Réfléchis à ton projet et parcours la checklist ci-dessous et coche les points qui s’appliquent à ton projet.
 
-Does your webpage have:
+Est-ce que ta page web contient :
 
 \--- task ---
 
-Multiple sections that contain different types of content, such as text and images, emojis, headings, quotations, lists, or links?
+Plusieurs sections contenant différents types de contenu, tels que du texte et des images, des emojis, des titres, des citations, des listes ou des liens ?
 
 \--- /task ---
 
 \--- task ---
 
-A colour palette, fonts, and CSS styles that work well together? You could ask other people for their opinion, but you don't have to make changes if you don't agree with them.
+Une palette de couleurs, des polices et des styles CSS qui fonctionnent bien ensemble ? Tu peux demander l’avis d’autres personnes, mais tu n’es pas obligé d’apporter des modifications si tu n’es pas d’accord avec elles.
 
 \--- /task ---
 
 \--- task ---
 
-Accessibility through a good colour contrast and easily readable font sizes?
+Accessibilité grâce à un bon contraste des couleurs et à des tailles de caractères lisibles ?
 
 \--- /task ---
 
-Your webpage could:
+Ta page web pourrait :
 
 \--- task ---
 
-Use custom CSS classes that you created and applied.
-
-\--- /task ---
-
-\--- task ---
-
-Use animations or flip cards to create interest.
+Utiliser des classes CSS personnalisées que tu as créées et appliquées.
 
 \--- /task ---
 
 \--- task ---
 
-Be shared to the Raspberry Pi Foundation community gallery to inspire others.
-
-\--- /task ---
-
-When you reflect on how you made your webpage, it will help you in your future projects.
-
-Answer the questions below. You can draw, write, type in a document, talk to someone, or answer the questions in your own creative way that works best for you.
-
-\--- task ---
-
-How did you choose the topic for your webpage?
+Utiliser des animations ou retourner des cartes pour susciter l'intérêt.
 
 \--- /task ---
 
 \--- task ---
 
-Which HTML or CSS technique do you like best?
+Être partagé à la galerie communautaire de la Raspberry Pi Foundation pour inspirer les autres.
+
+\--- /task ---
+
+Tu peux réfléchir à la façon dont tu as créé ta page web, cela t'aidera dans tes projets futurs.
+
+Réponds aux questions ci-dessous. Tu peux dessiner, écrire, taper un document, parler à quelqu'un ou répondre aux questions de ta propre façon créative qui te convient le mieux.
+
+\--- task ---
+
+Comment as-tu choisi le sujet de ta page web ?
+
+\--- /task ---
+
+\--- task ---
+
+Quelle technique HTML ou CSS préfères-tu ?
 
 \--- /task ---
 
 \--- task ---
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-"Design isn't finished until someone is using it." (Brenda Laurel).
+« Un design n'est pas terminé avant que quelqu'un ne l'utilise. » (Brenda Laurel).
 </p>
 
-In the 'Introduction to web' path you used lots of different design skills, including visual design, design for accessibility and user experience, and technical design. Which type of design do you enjoy most?
+Dans le parcours « Introduction au web », tu as utilisé beaucoup de compétences de conception différentes, notamment la conception visuelle, la conception pour l'accessibilité et l'expérience utilisateur et la conception technique. Quel type de design préfères-tu ?
 
 \--- /task ---
 
-### Now you are a web content developer!
+### Maintenant, tu es un développeur de contenu web !
 
-Take a moment to celebrate what you have made.
+Prends un moment pour célébrer ce que tu as fait.
 
 \--- task ---
 
-Where will you take your new powers? Who will you show your webpages to? What will you make next?
+Comment vas-tu utiliser tes nouveaux pouvoirs ? À qui montreras-tu tes pages web ? Que feras-tu ensuite ?
 
 \--- /task ---
