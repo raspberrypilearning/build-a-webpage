@@ -1,11 +1,11 @@
-## What next?
+## Et ensuite ?
 
-You have reached the end of the [Intro to web](https://projects.raspberrypi.org/en/pathways/web-intro) path!
+Tu as atteint la fin du parcours [Intro au web](https://projects.raspberrypi.org/fr-FR/pathways/web-intro) !
 
-Now you can create webpages on any topic you are interested in and share them. Try using HTML and CSS to design and build more webpages. If you want to continue learning about web development, you can have a look at the [More Web](https://projects.raspberrypi.org/en/pathways/more-web) path.
+Tu peux maintenant créer des pages web sur tous les sujets qui t'intéressent et les partager. Essaie d’utiliser HTML et CSS pour concevoir et créer davantage de pages web. Si tu souhaites continuer à en apprendre davantage sur le développement web, tu peux consulter le parcours [Plus de web](https://projects.raspberrypi.org/fr-FR/pathways/more-web).
 
-You could enter one of your Design or Invent projects into Coolest Projects, or make a completely new webpage.
+Tu peux intégrer l'un de tes projets Concevoir ou Inventer dans Coolest Projects, ou créer une toute nouvelle page web complète.
 
 [[[web-coolest-projects]]]
 
-You can also explore our [other web projects](https://projects.raspberrypi.org/en/projects?software%5B%5D=html-css-javascript) and try them out.
+Tu peux également explorer nos [autres projets web](https://projects.raspberrypi.org/fr-FR/projects?software%5B%5D=html-css-javascript) et les essayer.
