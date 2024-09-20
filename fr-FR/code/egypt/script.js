@@ -5,17 +5,17 @@ button.addEventListener('click', function () {
 });
 var button = document.getElementById('li2');
 button.addEventListener('click', function () {
-    document.location.href = 'History.html';
+    document.location.href = 'Histoire.html';
 });
 var button = document.getElementById('li3');
 button.addEventListener('click', function () {
-    document.location.href = 'Explore.html';
+    document.location.href = 'Explorer.html';
 });
 
 //btns
 var button = document.getElementById('btn1');
 button.addEventListener('click', function () {
-    document.location.href = '/Explore.html';
+    document.location.href = '/Explorer.html';
 });
 var button = document.getElementById('btn2');
 button.addEventListener('click', function () {
