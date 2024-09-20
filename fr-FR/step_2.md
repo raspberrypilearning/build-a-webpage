@@ -1,69 +1,69 @@
-## Your topic
+## Ton sujet
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-In this step you will decide what your webpage is about.
+Dans cette étape, tu décideras du sujet de ta page web.
 </div>
 <div>
-![A hand-drawn design of the layout of a webpage.](images/step-two.jpg){:width="300px"}
+![Dessin à la main de la mise en page d'une page web.](images/step-two.jpg){:width="300px"}
 </div>
 </div>
 
-### What do you want to share?
+### Que veux-tu partager ?
 
 \--- task ---
 
-Think about the purpose of your webpage.
+Pense à l’objectif de ta page web.
 
-It could be:
+Ça pourrait être :
 
-- ℹ️ An information page about a topic you are interested in
-- 🔗 A collection of links to the best webpages on a topic
-- 🧧 Information about a celebration or an event from your culture
-- 😜 Your favourite (polite!) jokes
-- 🎮 A game walkthrough or other tutorial
-- 🐙 Information about a pet or an animal
-- 💬 Some advice that you have found helpful
-- 🏞️ Tourist information about a place you have visited or would like to visit
-- 👩🏿‍🦼 Information about a medical condition or disability that you think more people should be aware of
+- ℹ️ Une page d'information sur un sujet qui t'intéresse
+- 🔗 Une collection de liens vers les meilleures pages web sur un sujet
+- 🧧 Des informations sur une fête ou un événement de ta culture
+- 😜 Ta blague favorite (polie !)
+- 🎮 Une procédure pas à pas du jeu ou un autre tutoriel
+- 🐙 Des informations sur un animal de compagnie ou un animal
+- 💬 Quelques conseils que tu as trouvés utiles
+- 🏞️ Des informations touristiques sur un lieu que tu as visité ou que tu aimerais visiter
+- 👩🏿‍🦼 Des informations sur un problème de santé ou un handicap dont tu penses que davantage de personnes devraient être conscientes
 
-**Tip:** Try to choose a topic that you already know something about. This is so you can spend your time building your webpage, not researching a topic.
+**Astuce :** essaie de choisir un sujet que tu connais déjà. Cela te permet de consacrer ton temps à la création de ta page web, et non à la recherche d'un sujet.
 
 \--- /task ---
 
-### Who is it for?
+### À qui s'adresse-t-il ?
 
 \--- task ---
 
-Who are you making your webpage for? You may find it helpful to think about the types of visitors you want to make your page for.
+Pour qui crées-tu ta page web ? Il peut être utile de réfléchir aux types de visiteurs pour lesquels tu souhaites créer ta page.
 
-- How old will your visitors be?
-- How much will they know about your topic?
-- Is the page for other experts in your topic or is it for beginners?
+- Quel sera l'âge de tes visiteurs ?
+- Que sauront-ils de ton sujet ?
+- La page est-elle destinée aux autres experts dans ton domaine ou aux débutants ?
 
-**Tip:** If you make a page about a topic you know lots about, make sure you explain it clearly to other people.
+**Astuce :** si tu fais une page sur un sujet que tu connais bien, assure-toi de l'expliquer clairement à d'autres personnes.
 
 \--- /task ---
 
-### Get started
+### Commencer
 
 \--- task ---
 
-If you have paper and a pen or pencil, you could sketch out your webpage layout.
+Si tu as du papier et un stylo ou un crayon, tu peux dessiner la mise en page de ta page web.
 
-You could also make a bullet point list of information that you want to include.
-
-\--- /task ---
-
-\--- task ---
-
-Open the [Build a webpage starter project](https://editor.raspberrypi.org/en/projects/build-a-web-page-starter){:target="_blank"}. The code editor will open in another browser tab.
+Tu peux également créer une liste à puces des informations que tu souhaites inclure.
 
 \--- /task ---
 
 \--- task ---
 
-Change the `<title>` element text to the title of your page.
+Ouvre le [projet de démarrage Créer une page web](https://editor.raspberrypi.org/fr-FR/projects/build-a-web-page-starter){:target="_blank"}. Le Code Editor s'ouvrira dans un autre onglet du navigateur.
+
+\--- /task ---
+
+\--- task ---
+
+Remplace le texte de l'élément `<title>` par le titre de ta page.
 
 [[[web-add-title-head]]]
 
