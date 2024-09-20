@@ -50,7 +50,7 @@ color: white;
 font-size: 13px;
 }
 
-/* Information boxes */
+/* Boîtes d'information */
 
 .wrapper{
 display: grid;
@@ -144,7 +144,7 @@ transform: translateY(-110px) rotateX(90deg);
 }
 
            
-/*Boxes Backgrounds*/
+/*Arrière-plans des boîtes*/
 
 .box .front-face.face1{
   background-image: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url(Egypt-Valley-of-the-kings.jpg);
