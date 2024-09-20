@@ -1,8 +1,8 @@
-title: Build a webpage
+title: Créer une page web
 hero_image: images/banner.png
-description: Build a webpage about something you want to share.
-meta_title: Learn web development for beginners | Build a webpage
-meta_description: Learn web development for beginners with the Raspberry Pi Foundation. Build a webpage with a variety of HTML elements. Add CSS classes to style your page.
+description: Crée une page web sur quelque chose que tu souhaites partager.
+meta_title: Apprendre le développement web pour les débutants | Créer une page web
+meta_description: Apprends le développement web pour les débutants avec la Raspberry Pi Foundation. Crée une page web avec une variété d'éléments HTML. Ajoute des classes CSS pour styliser ta page.
 version: 4
 listed: true
 copyedit: true
@@ -11,17 +11,17 @@ steps:
   - 
     title: Introduction
   - 
-    title: Your topic
+    title: Ton sujet
   - 
-    title: Build and test
+    title: Créer et tester
     completion: engaged
   - 
-    title: Share
+    title: Partager
     completion: internal
   - 
-    title: Reflection
+    title: Réflexion
     completion: external
   - 
-    title: Upgrade your project
+    title: Améliorer ton projet
   - 
-    title: What next?
+    title: Et ensuite ?
