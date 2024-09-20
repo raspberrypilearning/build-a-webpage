@@ -1,21 +1,21 @@
-Title shown in web browsers
+Titel die in webbrowsers wordt weergegeven
 
-Import fonts from Google
+Importeer lettertypen van Google
 
-Include CSS style file
+Voeg een CSS-stijlbestand toe
 
-The page header code goes here
+De paginakoptekstcode komt hier terecht
 
-The main content for the web page goes between the main tags
+De hoofdinhoud van de webpagina bevindt zich tussen de main tags
 
-A section with an image on the left and text on the right
+Een sectie met een afbeelding aan de linkerkant en tekst aan de rechterkant
 
-A section with two bulleted lists
+Een sectie met twee lijsten met opsommingstekens
 
-A heading for the inputs section
+Een kop voor de invoer sectie
 
-Three flip cards with images on one side and text on the other
+Drie flipkaarten met afbeeldingen aan de ene kant en tekst aan de andere kant
 
-A heading for the outputs section
+Een kop voor de uitvoer sectie
 
-Footer with text and a hyperlink
+Voettekst met tekst en hyperlink
