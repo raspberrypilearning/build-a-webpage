@@ -1,8 +1,8 @@
-## Build and test
+## Créer et tester
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-Now it's time to build your webpage. 
+Il est maintenant temps de créer ta page web. 
 
 </div>
 <div>
@@ -10,37 +10,37 @@ Now it's time to build your webpage.
 </div>
 </div>
 
-**Tip:** Plan your project so you can create a basic webpage in the time you have available and then upgrade the project if you have time left.
+**Astuce :** planifie ton projet afin de pouvoir créer une page web de base dans le temps que tu as disponible, puis mets à jour le projet s'il te reste du temps.
 
-**Tip:** Remember to test your project each time you add something. It is much easier to find and fix bugs before you make more changes.
+**Astuce :** n'oublie pas de tester ton projet chaque fois que tu ajoutes quelque chose. Il est beaucoup plus facile de trouver et de corriger les bogues avant d'apporter d'autres modifications.
 
 \--- task ---
 
-You have built up some really useful skills. Here is a reminder to help you make your webpage:
+Tu as acquis des compétences vraiment utiles. Voici un rappel pour t'aider à réaliser ta page web :
 
-### Colour palette
+### Palettes de couleurs
 
 [[[web-colour-palette-variables]]]
 
-Use or personalise starter project colour palettes.
+Utilise ou personnalise les palettes de couleurs du projet de démarrage.
 
 [[[hex-colour-palettes]]]
 
 [[[web-colour-palette]]]
 
-Create a colour palette from an image.
+Crée une palette de couleurs à partir d'une image.
 
 [[[rpfeditor-image-library]]]
 
 [[[colours-from-image]]]
 
-Customise colour palettes for style and accessibility.
+Personnalise les palettes de couleurs pour le style et l'accessibilité.
 
 [[[contrast-checker]]]
 
 [[[add-colour-variables]]]
 
-Use your colour palettes to set text and background colours.
+Utilise tes palettes de couleurs pour définir des couleurs de texte et d'arrière-plan.
 
 [[[web-primary-secondary]]]
 
@@ -53,12 +53,12 @@ Use your colour palettes to set text and background colours.
 [[[full-width-quote]]]
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-Webpages can be viewed on many different devices and should be <span style="color: #0faeb0">**responsive**</span> to each device. This means that if a user views your website on a mobile phone, it should respond to a smaller screen and if they view it on a desktop PC, it should respond to a larger screen. 
+Les pages web peuvent être consultées sur de nombreux appareils différents et doivent être <span style="color: #0faeb0">**réactives**</span> pour chaque appareil. Cela signifie que si un utilisateur consulte ta page web sur un téléphone portable, elle doit répondre à un écran plus petit et s'il la consulte sur un ordinateur de bureau, elle doit répondre à un écran plus grand. 
 </p>
 
 [[[using-rem]]]
 
-CSS can also be used to responsively change the layout of the webpage.
+CSS peut également être utilisé pour modifier de manière réactive la mise en page de la page web.
 
 [[[side-by-side-section]]]
 
@@ -74,15 +74,15 @@ CSS can also be used to responsively change the layout of the webpage.
 
 [[[web-wrap-gap]]]
 
-Align and space your content to improve the look of your webpage.
+Aligne et espace ton contenu pour améliorer l'apparence de ta page web.
 
 [[[web-x-y-centering]]]
 
 [[[padding-margins]]]
 
-### Fonts and text elements
+### Polices et éléments texte
 
-Choose fonts to use on your webpage.
+Choisis les polices à utiliser sur ta page web.
 
 [[[included-fonts]]]
 
@@ -90,11 +90,11 @@ Choose fonts to use on your webpage.
 
 [[[google-fonts]]]
 
-You can use placeholder text while you work on your layout.
+Tu peux utiliser un texte de remplacement pendant que tu travailles sur ta mise en page.
 
 [[[add-placeholder-text]]]
 
-Insert text elements.
+Insère des éléments texte.
 
 [[[web-ordered-list]]]
 
@@ -102,7 +102,7 @@ Insert text elements.
 
 [[[full-width-quote]]]
 
-Style your text.
+Stylise ton texte.
 
 [[[web-headers-large-text]]]
 
@@ -112,25 +112,25 @@ Style your text.
 
 ### Images
 
-Insert an image from the starter project library.
+Insère une image de la bibliothèque du projet de démarrage.
 
 [[[trinket-image-library]]]
 
 [[[web-alt-text]]]
 
-Use an emoji as an image.
+Utilise un emoji comme image.
 
 [[[choose-an-emoji]]]
 
 [[[huge-emoji]]]
 
-Add a background image.
+Ajoute une image d'arrière-plan.
 
 [[[web-background-image]]]
 
 [[[add-transparency]]]
 
-**Tip:** You can style your images with rounded corners or borders.
+**Astuce :** tu peux styliser tes images avec des coins ou des bordures arrondis.
 
 [[[rounded-corners]]]
 
@@ -140,19 +140,19 @@ Add a background image.
 
 ### Animations
 
-Create web flip cards.
+Crée des cartes web à retourner.
 
 [[[web-flip-cards]]]
 
-Use animations to change the appearance or position of elements on your page over time.
+Utilise des animations pour changer l'apparence ou la position des éléments sur ta page au fil du temps.
 
 [[[web-starter-animations]]]
 
 [[[web-customise-animations]]]
 
-### More style
+### Plus de styles
 
-Add more style to any elements on your webpage.
+Ajoute plus de style à tous les éléments de ta page web.
 
 [[[rounded-corners]]]
 
@@ -164,7 +164,7 @@ Add more style to any elements on your webpage.
 
 [[[web-box-shadow]]]
 
-You can create your own class to make a new style.
+Tu peux créer ta propre classe pour créer un nouveau style.
 
 [[[web-add-class]]]
 
@@ -172,9 +172,9 @@ You can create your own class to make a new style.
 
 \--- task ---
 
-**Test:** Show someone else your project and get their feedback. Do you want to make any changes to your webpage?
+**Test :** montre ton projet à quelqu'un d'autre pour avoir son avis. Souhaites-tu apporter des modifications à ta page web ?
 
-**Tip:** Now is a good time to add comments to your code to make it easier to debug and upgrade. Comments also help other people read you code.
+**Astuce :** c’est le moment idéal pour ajouter des commentaires à ton code afin de faciliter le débogage et l'amélioration. Les commentaires aident également les autres personnes à lire ton code.
 
 [[[web-comment-code]]]
 
@@ -182,15 +182,15 @@ You can create your own class to make a new style.
 
 \--- task ---
 
-**Debug:** You might find some bugs in your HTML or CSS that you need to fix. Here are some common bugs.
+**Débogage :** tu pourrais trouver des bogues dans ton code HTML ou CSS que tu dois corriger. Voici quelques bogues courants.
 
-**My webpage isn't displaying correctly**
+**Ma page web ne s'affiche pas correctement**
 
 [[[incorrect-tags]]]
 
 [[[mismatched-tags]]]
 
-**Further debug questions**
+**Autres questions de débogage**
 
 [[[image-not-displayed]]]
 
@@ -198,8 +198,8 @@ You can create your own class to make a new style.
 
 [[[web-debug-link]]]
 
-You might find a bug not listed here. Can you figure out how to fix the bug?
+Tu pourrais trouver un bogue qui n'est pas répertorié ici. Peux-tu trouver un moyen de le corriger ?
 
-We love hearing about your bugs and how you fixed them. Use the **Send feedback** button at the bottom of this page if you found a different bug in your project.
+Nous aimerions connaître tes bogues et la façon dont tu les as résolus. Utilise le bouton **Envoie un commentaire** au bas de cette page si tu as trouvé un autre bogue dans ton projet.
 
 \--- /task ---
