@@ -1,21 +1,21 @@
-Title shown in web browsers
+Titre affiché dans les navigateurs web
 
-Import fonts from Google
+Importer des polices depuis Google
 
-Include CSS style file
+Inclure le fichier de style CSS
 
-The page header code goes here
+Le code d'en-tête de la page va ici
 
-The main content for the web page goes between the main tags
+Le contenu principal de la page web se situe entre les balises principales
 
-A section with an image on the left and text on the right
+Une section avec une image à gauche et du texte à droite
 
-A section with two bulleted lists
+Une section avec deux listes à puces
 
-A heading for the inputs section
+Un titre pour la section des entrées
 
-Three flip cards with images on one side and text on the other
+Trois cartes à retourner avec des images d'un côté et du texte de l'autre
 
-A heading for the outputs section
+Un titre pour la section des sorties
 
-Footer with text and a hyperlink
+Pied de page avec texte et lien hypertexte
