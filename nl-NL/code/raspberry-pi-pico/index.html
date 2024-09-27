@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+<html lang="nl">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+
+    <!-- Title shown in web browsers-->
+    <title>Raspberry Pi Pico</title>
+
+    <!-- Import fonts from Google -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Bungee+Shade&family=Codystar:wght@300&family=Creepster&family=Eater&family=Faster+One&family=Finger+Paint&family=Flavors&family=Freckle+Face&family=Fredericka+the+Great&family=Gorditas&family=Hanalei+Fill&family=Lobster&family=Luckiest+Guy&family=Miltonian&family=Monoton&family=Ranchers&family=Rubik+Moonrocks&family=Shrikhand&family=Spirax&family=Titan+One&Bebas+Neue&Cairo&display=swap"
+      rel="stylesheet"
+    />
+    
+    <!-- Include CSS style file -->
+
+     <link href="style.css" rel="stylesheet" type="text/css" /> 
+     <link href="animation.css" rel="stylesheet" type="text/css" /> 
+     <link href="default.css" rel="stylesheet" type="text/css" /> 
+  </head>
+
+  <body>
+    <!-- The page header code goes here -->
+    <header class="border-bottom secondary">
+      <h1>De Raspberry Pi Pico</h1>
+    </header>
+
+    <!-- The main content for the web page goes between the main tags -->
+    <main>
+      
+      <!-- A section with an image on the left and text on the right -->
+      
+      <section class="wrap">
+        <img src="pico-hand.png" alt="De liefde gezichtsuitdrukking.">
+        <p>De Raspberry Pi Pico is een goedkope microcontroller die gebruikt wordt voor het maken van elektronische producten.</p>
+      </section>
+      
+      <!-- A section with two bulleted lists -->
+        
+      <section class="tertiary">
+          <p>De invoer en uitvoer die ik heb gebruikt zijn:</p>
+        <div>
+          <p>Invoer</p>
+          <ul>
+            <li>Schakelaar</li>
+            <li>Drukknop</li>
+            <li>Potentiometer</li>
+          </ul>
+        </div>
+        
+        <div>
+          <p>Uitvoer</p>
+          <ul>
+            <li>LED</li>
+            <li>RGB LED</li>
+            <li>Zoemer</li>
+          </ul>
+        </div>
+          <p>Beweeg de muis over de kaarten voor meer informatie:</p>
+      </section>  
+      
+      <!-- A heading for the inputs section -->
+      
+      <h2 class="xcenter">Invoer</h2>
+      
+      <section class="wrap">
+        
+        <!-- Three flip cards with images on one side and text on the other -->
+
+        <div class="card">
+          <div class="card-content">
+            <div class="card-face ytop rounded purple">
+              <p>Schakelaar</p>
+              <img src="switch.png" alt="">
+            </div>
+            <div class="card-face ycenter rounded flipme purple">
+              <p>Een schakelaar is een elektrische component die gesloten kan worden om electriciteit te laten stromen en geopend om te voorkomen dat electriciteit stroomt.</p>
+            </div>
+          </div>
+        </div>
+        
+        <div class="card">
+          <div class="card-content">
+            <div class="card-face ytop rounded brickred">
+              <p>Drukknop</p>
+              <img src="button.png" alt="">
+            </div>
+            <div class="card-face ycenter rounded flipme brickred">
+              <p>Een knop is een soort schakelaar die een verbinding maakt wanneer deze wordt ingedrukt.</p>
+            </div>
+          </div>
+        </div>
+        
+        <div class="card">
+          <div class="card-content">
+            <div class="card-face ytop rounded yellow">
+              <p>Potentiometer</p>
+              <img src="pot.png" alt="">
+            </div>
+            <div class="card-face ycenter rounded flipme yellow">
+              <p>Een potentiometer is een analoog invoeronderdeel dat zijn weerstand verandert afhankelijk van de positie van het instelwiel.</p>
+            </div>
+          </div>
+        </div>
+        
+      </section>
+      
+      <!-- A heading for the outputs section -->
+      
+      <h2 class="xcenter">Uitvoer</h2>
+        
+        <section class="wrap">
+          
+          <!-- Three flip cards with images on one side and text on the other -->
+        
+          <div class="card">
+            <div class="card-content">
+              <div class="card-face ytop rounded turquoise">
+                <p>LED</p>
+                <img src="led.png" alt="">
+              </div>
+              <div class="card-face ycenter rounded flipme turquoise">
+                <p>LED staat voor light-emitting diode. Het bevat een materiaal dat oplicht als er een elektrische stroom doorheen gaat.</p>
+              </div>
+            </div>
+          </div>
+        
+          <div class="card">
+            <div class="card-content">
+              <div class="card-face ytop rounded blue">
+                <p>RGB LED</p>
+                <img src="rgb-led.png" alt="">
+              </div>
+              <div class="card-face ycenter rounded flipme blue">
+                <p>RGB staat voor Rood Groen Blauw. Met RGB LED's kun je code gebruiken om te bepalen hoeveel van elke kleur wordt uitgestraald.</p>
+              </div>
+            </div>
+          </div>
+          
+          <div class="card">
+            <div class="card-content">
+              <div class="card-face ytop rounded orange">
+                <p>Zoemer</p>
+                <img src="buzzer.png" alt="">
+              </div>
+              <div class="card-face ycenter rounded flipme orange">
+                <p>Een passieve zoemer kan verschillende tonen afspelen. Het vereist een verbinding en een specifiek signaal om de gekozen toon te kunnen afspelen.</p>
+              </div>
+            </div>
+          </div>
+        
+        </section>
+    </main>
+
+    <!-- Footer with text and a hyperlink -->
+    <footer class="border-top secondary">
+   <p class="xcenter"><span class="spinme">⭐</span><a href="https://rpf.io/pico-intro" target="_blank"> Maak je eigen invoer en uitvoer! </a><span class="spinme">⭐</span></p>
+    </footer>
+
+  </body>
+</html>

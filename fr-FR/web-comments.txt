@@ -1,0 +1,21 @@
+Titre affiché dans les navigateurs web
+
+Importer des polices depuis Google
+
+Inclure le fichier de style CSS
+
+Le code d'en-tête de la page va ici
+
+Le contenu principal de la page web se situe entre les balises principales
+
+Une section avec une image à gauche et du texte à droite
+
+Une section avec deux listes à puces
+
+Un titre pour la section des entrées
+
+Trois cartes à retourner avec des images d'un côté et du texte de l'autre
+
+Un titre pour la section des sorties
+
+Pied de page avec texte et lien hypertexte

@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+<html lang="fr">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+
+    <!-- Title shown in web browsers-->
+    <title>Raspberry Pi Pico</title>
+
+    <!-- Import fonts from Google -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Bungee+Shade&family=Codystar:wght@300&family=Creepster&family=Eater&family=Faster+One&family=Finger+Paint&family=Flavors&family=Freckle+Face&family=Fredericka+the+Great&family=Gorditas&family=Hanalei+Fill&family=Lobster&family=Luckiest+Guy&family=Miltonian&family=Monoton&family=Ranchers&family=Rubik+Moonrocks&family=Shrikhand&family=Spirax&family=Titan+One&Bebas+Neue&Cairo&display=swap"
+      rel="stylesheet"
+    />
+    
+    <!-- Include CSS style file -->
+
+     <link href="style.css" rel="stylesheet" type="text/css" /> 
+     <link href="animation.css" rel="stylesheet" type="text/css" /> 
+     <link href="default.css" rel="stylesheet" type="text/css" /> 
+  </head>
+
+  <body>
+    <!-- The page header code goes here -->
+    <header class="border-bottom secondary">
+      <h1>Le Raspberry Pi Pico</h1>
+    </header>
+
+    <!-- The main content for the web page goes between the main tags -->
+    <main>
+      
+      <!-- A section with an image on the left and text on the right -->
+      
+      <section class="wrap">
+        <img src="pico-hand.png" alt="L’expression du visage amoureux.">
+        <p>Le Raspberry Pi Pico est un microcontrôleur économique utilisé pour fabriquer des produits électroniques.</p>
+      </section>
+      
+      <!-- A section with two bulleted lists -->
+        
+      <section class="tertiary">
+          <p>Les entrées et sorties que j'ai utilisées sont :</p>
+        <div>
+          <p>Entrées</p>
+          <ul>
+            <li>Interrupteur (switch)</li>
+            <li>Bouton</li>
+            <li>Potentiomètre</li>
+          </ul>
+        </div>
+        
+        <div>
+          <p>Sorties</p>
+          <ul>
+            <li>LED</li>
+            <li>LED RVB</li>
+            <li>Buzzer</li>
+          </ul>
+        </div>
+          <p>Passez la souris sur les cartes pour en savoir plus :</p>
+      </section>  
+      
+      <!-- A heading for the inputs section -->
+      
+      <h2 class="xcenter">Entrées</h2>
+      
+      <section class="wrap">
+        
+        <!-- Three flip cards with images on one side and text on the other -->
+
+        <div class="card">
+          <div class="card-content">
+            <div class="card-face ytop rounded purple">
+              <p>Interrupteur (switch)</p>
+              <img src="switch.png" alt="">
+            </div>
+            <div class="card-face ycenter rounded flipme purple">
+              <p>Un interrupteur est un composant électrique qui peut être fermé pour permettre au courant électrique de circuler et ouvert pour empêcher le courant électrique de circuler.</p>
+            </div>
+          </div>
+        </div>
+        
+        <div class="card">
+          <div class="card-content">
+            <div class="card-face ytop rounded brickred">
+              <p>Bouton</p>
+              <img src="button.png" alt="">
+            </div>
+            <div class="card-face ycenter rounded flipme brickred">
+              <p>Un bouton est une sorte d’interrupteur qui établit une connexion lorsqu’il est enfoncé.</p>
+            </div>
+          </div>
+        </div>
+        
+        <div class="card">
+          <div class="card-content">
+            <div class="card-face ytop rounded yellow">
+              <p>Potentiomètre</p>
+              <img src="pot.png" alt="">
+            </div>
+            <div class="card-face ycenter rounded flipme yellow">
+              <p>Un potentiomètre est un composant d'entrée analogique qui change sa résistance en fonction de la position du cadran.</p>
+            </div>
+          </div>
+        </div>
+        
+      </section>
+      
+      <!-- A heading for the outputs section -->
+      
+      <h2 class="xcenter">Sorties</h2>
+        
+        <section class="wrap">
+          
+          <!-- Three flip cards with images on one side and text on the other -->
+        
+          <div class="card">
+            <div class="card-content">
+              <div class="card-face ytop rounded turquoise">
+                <p>LED</p>
+                <img src="led.png" alt="">
+              </div>
+              <div class="card-face ycenter rounded flipme turquoise">
+                <p>LED signifie diode électroluminescente. Il possède un matériau qui s'illumine lorsqu'un courant électrique le traverse.</p>
+              </div>
+            </div>
+          </div>
+        
+          <div class="card">
+            <div class="card-content">
+              <div class="card-face ytop rounded blue">
+                <p>LED RVB</p>
+                <img src="rgb-led.png" alt="">
+              </div>
+              <div class="card-face ycenter rounded flipme blue">
+                <p>RVB signifie Rouge Vert Bleu. Les LED RVB vous permettent d'utiliser un code pour contrôler la quantité de chaque couleur émise.</p>
+              </div>
+            </div>
+          </div>
+          
+          <div class="card">
+            <div class="card-content">
+              <div class="card-face ytop rounded orange">
+                <p>Buzzer</p>
+                <img src="buzzer.png" alt="">
+              </div>
+              <div class="card-face ycenter rounded flipme orange">
+                <p>Un buzzer passif peut émettre une variété de sons. Il nécessite une connexion et un signal spécifique pour jouer le son choisi.</p>
+              </div>
+            </div>
+          </div>
+        
+        </section>
+    </main>
+
+    <!-- Footer with text and a hyperlink -->
+    <footer class="border-top secondary">
+   <p class="xcenter"><span class="spinme">⭐</span><a href="https://rpf.io/pico-intro" target="_blank"> Faites le vôtre ! </a><span class="spinme">⭐</span></p>
+    </footer>
+
+  </body>
+</html>

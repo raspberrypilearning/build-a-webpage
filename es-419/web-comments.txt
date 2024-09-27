@@ -1,0 +1,21 @@
+Title shown in web browsers
+
+Import fonts from Google
+
+Include CSS style file
+
+The page header code goes here
+
+The main content for the web page goes between the main tags
+
+A section with an image on the left and text on the right
+
+A section with two bulleted lists
+
+A heading for the inputs section
+
+Three flip cards with images on one side and text on the other
+
+A heading for the outputs section
+
+Footer with text and a hyperlink
