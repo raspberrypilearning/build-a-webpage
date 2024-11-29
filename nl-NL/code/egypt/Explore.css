@@ -1,0 +1,197 @@
+*{
+  margin: 0;
+  padding: 0;
+  font-family: 'Roboto', sans-serif;
+}
+
+html{
+background: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url(background.jpg) no-repeat center center fixed;
+}
+
+.container{
+  width: 100%;
+  height: auto;
+  padding-left: 8%;
+  padding-right: 8%;
+  box-sizing: border-box;
+  
+}
+
+
+.navbar{
+height: 12%;
+display: flex;
+align-items: center;
+}
+
+.logo{
+width: 50px;
+cursor: pointer;
+color: white;
+font-size: 20px;
+}
+
+.navbar i{
+width: 30px;
+cursor: pointer;
+margin-left: 40px;
+}
+
+nav{
+flex: 1;
+text-align: right;
+}
+
+nav ul li{
+list-style: none;
+display: inline-block;
+margin-left: 60px;
+color: white;
+font-size: 13px;
+}
+
+/* Informatievakken */
+
+.wrapper{
+display: grid;
+margin: 200px 90px auto;
+grid-gap: 20px;
+grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
+}
+@media (max-width: 700px) {
+.wrapper{
+  margin: 200px auto;
+}
+}
+.wrapper .box{
+width: 350px;
+margin: 0 auto;
+position: relative;
+perspective: 1000px;
+border: #000000;
+border-radius: 2px;
+-webkit-border-radius: 2px;
+-moz-border-radius: 2px;
+-ms-border-radius: 2px;
+-o-border-radius: 2px;
+padding-bottom: 75px;
+padding-right: 75px;
+}
+.wrapper .box .front-face{
+background: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url(background.jpg);
+background-size: cover;
+height: 220px;
+width: 100%;
+display: flex;
+flex-direction: column;
+justify-content: center;
+border-radius: 2px;
+border-color: #000000;
+box-shadow: 0px 5px 20px 0px rgba(0, 81, 250, 0.1);
+transition: all 0.5s ease;
+-webkit-border-radius: 2px;
+-moz-border-radius: 2px;
+-ms-border-radius: 2px;
+-o-border-radius: 2px;
+}
+
+.box .front-face span,
+.box .back-face span{
+font-size: 22px;
+font-weight: 600;
+text-transform: uppercase;
+}
+
+.box .front-face span{
+background: linear-gradient(-135deg, #000000, #000000);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+text-align: center;
+}
+
+
+.box .back-face{
+position: absolute;
+top: 0;
+left: 0;
+z-index: 1;
+height: 220px;
+width: 100%;
+padding: 30px;
+color: #fff;
+opacity: 0;
+transform-style: preserve-3d;
+backface-visibility: hidden;
+background: linear-gradient(-135deg, #000000, #000000);
+transform: translateY(110px) rotateX(-90deg);
+box-shadow: 0px 5px 20px 0px rgba(0, 81, 250, 0.1);
+transition: all 0.5s ease;
+}
+
+.box .back-face p{
+margin-top: 10px;
+text-align: justify;
+}
+
+.box:hover .back-face{
+opacity: 1;
+transform: rotateX(0deg);
+}
+
+.box:hover .front-face{
+opacity: 0;
+transform: translateY(-110px) rotateX(90deg);
+}
+
+           
+/*Achtergronden van vakken*/
+
+.box .front-face.face1{
+  background-image: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url(Egypt-Valley-of-the-kings.jpg);
+  }
+  
+  .box .front-face.face2{
+  background-image:linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)), url(egypt-mosque-cairo.jpg);
+  }
+  
+  .box .front-face.face3{
+  background-image:linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)), url(egypt-temples.jpg);
+  }
+  
+  .box .front-face.face4{
+  background-image:linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)), url(gouna.jpg);
+  }
+  
+  .box .front-face.face5{
+  background-image:linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)), url(sharm.jpg);
+  }
+  
+  .box .front-face.face6{
+    background-image:linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)), url(saint-catherines-monastery.jpg);
+  }
+  
+  .box .front-face.face7{
+      background-image:linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)), url(alexandria-egypt-library.jpg);
+  }
+
+  .box .front-face.face{
+    background-image:linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)), url(flag.jpg);
+  }
+
+  .box .back-face button{
+    height: 60px;
+    width: 100%;
+    margin-top: 55px;
+    background-color: rgb(52, 52, 255);
+    border-radius: 30px;
+    -webkit-border-radius: 30px;
+    -moz-border-radius: 30px;
+    -ms-border-radius: 30px;
+    -o-border-radius: 30px;
+    text-align: center;
+    font-size: xx-large;
+}
+
+.box .back-face a{
+  text-decoration: none;
+}

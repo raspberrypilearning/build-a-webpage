@@ -1,0 +1,21 @@
+Titel die in webbrowsers wordt weergegeven
+
+Importeer lettertypen van Google
+
+Voeg een CSS-stijlbestand toe
+
+De paginakoptekstcode komt hier terecht
+
+De hoofdinhoud van de webpagina bevindt zich tussen de main tags
+
+Een sectie met een afbeelding aan de linkerkant en tekst aan de rechterkant
+
+Een sectie met twee lijsten met opsommingstekens
+
+Een kop voor de invoer sectie
+
+Drie flipkaarten met afbeeldingen aan de ene kant en tekst aan de andere kant
+
+Een kop voor de uitvoer sectie
+
+Voettekst met tekst en hyperlink
