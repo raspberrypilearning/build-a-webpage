@@ -55,7 +55,7 @@ main {
   background: var(--primary); /* Kleur de achtergrond */
   color: var(--onprimary); /* Kleur de tekst */
   margin: 0 auto; /* Centreren als de browser erg breed is */
-  min-breedte: 25rem; /* Laat de inhoud niet te smal worden */
+  min-width: 25rem; /* Laat de inhoud niet te smal worden */
   max-width: 70rem; /* Laat de inhoud niet te breed worden */
   padding: 0;
   padding-top: 0.5rem; /* Vulling bovenaan */
