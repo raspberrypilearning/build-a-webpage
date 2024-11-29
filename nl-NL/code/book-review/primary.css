@@ -1,0 +1,20 @@
+/* Kleurenpalet en lettertypen instellen met variabelen */
+
+:root {
+  --primary: #ff9900; /* */
+  --onprimary: #000000; /* */
+  --secondary: #ff0000; /* */
+  --onsecondary: #000000; /* */
+  --tertiary: #059f2d; /* */
+  --ontertiary: #ffffff; /* */
+  --page: #ffffff; /* */
+  --onpage: #000000; /* */
+  --detail: #fffe13; /* */
+  --detail2: #9101a1; /* */
+  --detail3: #014fe8; /* */
+  
+  --body-font: 1rem Verdana, sans-serif;
+  --header-font: lighter 3rem "Luckiest Guy", cursive;
+  --title-font: lighter 2rem "Luckiest Guy", cursive;
+  --quote-font: lighter 1.5rem "Luckiest Guy", cursive;
+}
