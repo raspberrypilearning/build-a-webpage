@@ -26,7 +26,7 @@ Can you identify the HTML elements that are used in this project? How has CSS be
 **Favourite things**: [See inside](https://editor.raspberrypi.org/en/projects/favourite-things){:target="_blank"}
 <div>
 <iframe src="https://editor.raspberrypi.org/en/embed/viewer/favourite-things" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen> </iframe>
-</div></div>
+</div>
 
 </div>
 
@@ -70,7 +70,7 @@ As you look at these webpages, consider what makes them useful and informative, 
 **⭐ Introduction to Raspberry Pi Pico**: [See inside](https://editor.raspberrypi.org/en/projects/raspberry-pi-pico){:target="_blank"}
 <div>
 <iframe src="https://editor.raspberrypi.org/en/embed/viewer/raspberry-pi-pico" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen> </iframe>
-</div></div>
+</div>
 
 **⭐ Book review**: [See inside](https://editor.raspberrypi.org/en/projects/book-review){:target="_blank"}
 
