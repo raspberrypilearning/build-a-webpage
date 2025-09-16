@@ -203,3 +203,4 @@ Tu pourrais trouver un bogue qui n'est pas répertorié ici. Peux-tu trouver un 
 Nous aimerions connaître tes bogues et la façon dont tu les as résolus. Utilise le bouton **Envoie un commentaire** au bas de cette page si tu as trouvé un autre bogue dans ton projet.
 
 \--- /task ---
+
