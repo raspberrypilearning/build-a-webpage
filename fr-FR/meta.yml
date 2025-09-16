@@ -1,6 +1,7 @@
 title: Créer une page web
 hero_image: images/banner.png
 description: Crée une page web sur quelque chose que tu souhaites partager.
+pdf: resources/rpfi_build_a_webpage.pdf
 meta_title: Apprendre le développement web pour les débutants | Créer une page web
 meta_description: Apprends le développement web pour les débutants avec la Raspberry Pi Foundation. Crée une page web avec une variété d'éléments HTML. Ajoute des classes CSS pour styliser ta page.
 version: 4
@@ -23,5 +24,3 @@ steps:
     completion: external
   - 
     title: Améliorer ton projet
-  - 
-    title: Et ensuite ?
