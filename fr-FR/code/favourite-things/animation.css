@@ -1,4 +1,4 @@
-  .spinme {
+.spinme {
   animation: rotate-center linear 8s 2; /* Temps nécessaire à l'animation et nombre de répétitions*/
   display: inline-block; /* Important pour permettre la rotation */
 }
