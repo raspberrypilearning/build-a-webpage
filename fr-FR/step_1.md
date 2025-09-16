@@ -26,7 +26,7 @@ Peux-tu identifier les éléments HTML utilisés dans ce projet ? Comment CSS a-
 **Choses préférées** : [voir à l'intérieur](https://editor.raspberrypi.org/fr-FR/projects/favourite-things){:target="_blank"}
 <div>
 <iframe src="https://editor.raspberrypi.org/en/embed/viewer/favourite-things" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen> </iframe>
-</div></div>
+</div>
 
 </div>
 
@@ -70,7 +70,7 @@ En consultant ces pages web, réfléchis à ce qui les rend utiles et informativ
 **⭐ Introduction au Raspberry Pi Pico** : [voir à l'intérieur](https://editor.raspberrypi.org/fr-FR/projects/raspberry-pi-pico){:target="_blank"}
 <div>
 <iframe src="https://editor.raspberrypi.org/en/embed/viewer/raspberry-pi-pico" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen> </iframe>
-</div></div>
+</div>
 
 **⭐ Critique de livre** : [voir à l'intérieur](https://editor.raspberrypi.org/fr-FR/projects/book-review){:target="_blank"}
 
