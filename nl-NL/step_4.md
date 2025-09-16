@@ -7,3 +7,4 @@ Het is nu tijd om jouw webpagina te delen, zodat deze bezoekers kan ontvangen.
 Waarom laat je je project niet zien aan een van je vrienden?
 
 Waarom nodig je je vrienden niet uit om een project te maken? Laat ze weten hoeveel plezier je hebt gehad.
+
