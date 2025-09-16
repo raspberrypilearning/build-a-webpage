@@ -26,7 +26,7 @@ Kun je de HTML-elementen identificeren die in dit project worden gebruikt? Hoe i
 **Favoriete dingen**: [Bekijk van binnen](https://editor.raspberrypi.org/en/projects/favourite-things){:target="_blank"}
 <div>
 <iframe src="https://editor.raspberrypi.org/en/embed/viewer/favourite-things" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen> </iframe>
-</div></div>
+</div>
 
 </div>
 
@@ -70,7 +70,7 @@ Terwijl je naar deze webpagina's kijkt, bedenk dan wat ze nuttig en informatief 
 **⭐ Inleiding tot Raspberry Pi Pico**: [Bekijk van binnen](https://editor.raspberrypi.org/en/projects/raspberry-pi-pico){:target="_blank"}
 <div>
 <iframe src="https://editor.raspberrypi.org/en/embed/viewer/raspberry-pi-pico" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen> </iframe>
-</div></div>
+</div>
 
 **⭐ Boekrecensie**: [Bekijk van binnen](https://editor.raspberrypi.org/en/projects/book-review){:target="_blank"}
 
