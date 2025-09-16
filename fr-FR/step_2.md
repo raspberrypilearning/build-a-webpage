@@ -68,3 +68,4 @@ Remplace le texte de l'élément `<title>` par le titre de ta page.
 [[[web-add-title-head]]]
 
 \--- /task ---
+
