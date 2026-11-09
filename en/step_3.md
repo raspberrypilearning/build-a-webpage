@@ -114,7 +114,7 @@ Style your text.
 
 Insert an image from the starter project library.
 
-[[[trinket-image-library]]]
+[[[rpfeditor-image-library]]]
 
 [[[web-alt-text]]]
 
